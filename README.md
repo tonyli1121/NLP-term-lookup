@@ -14,7 +14,7 @@ Commissioned project to look up the existence of terms in a file
 
 6. check result.txt for result
 
-## example
+## example on running on command lines
 python main.py
 
 Enter the file name: en.txt
