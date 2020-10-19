@@ -1,0 +1,1514 @@
+包括	comprise
+具体实施	in specific embodiment.
+具体实施方式	Detailed description
+具体来说	specifically
+具有标记的至少一个第一连通域组成的所述光晕区域	halo region consisting of at least one first connected regions with labels
+实体信息	entity informatio
+实体卡片	physical card
+实体识别	entity recognition
+实施例	embodiment
+实施例	embodiments
+实用新型	utility
+实际需求	actual demand
+实际打印	actual printing
+实现	effectuate
+实时	in a real-time
+实时高度	real-time height
+实时信息	real-time information
+实时交通服务费	real-time transport service fee
+实时运行数据	real-time operational data
+实时电流	real-time current
+实时电压	real-time voltage
+实时待支付金额	real-time price to be paid
+实时地	in real time
+实时角度	real-time angle
+实时温度	real-time temperature
+实验方案	experiment
+方法的示例性流程图	flowchart illustrating an exemplary process for
+方程	equation
+方位角	azimuth
+方差分析法	analysis of variance
+示例实施例	exemplary embodiment
+示例性实施例	exemplary embodiment
+例如	for example
+例如	e.g.,
+当前红绿灯状态	current traffic light status
+当前位置	current position
+当前打印像素	current printing pixel
+当前打印位置	current printing position
+当前病情	current disease condition
+前端部	front end
+红绿灯状态获取模块	The green light status acquiring module
+红灯状态	red light status
+红外传感器	infrared sensor
+绿灯状态	green light status
+状态列表	state list
+黄灯状态	yellow light status
+抓拍图片	Snapshot picture
+图 标记：	In FIG. ,
+图片处理方法	image processing method
+图片处理系统	image processing system
+图片预览界面	image preview interface
+图片选择界面	picture selection interface
+图片识别	picture recognition
+图像	image
+图像拍摄装置	image shooting device
+图像信号	image signal
+图像标识模块	image identification module
+图像元素	image elements
+图像特征	image feature
+图像输入设备	image input device
+图像输出装置	image output device
+图像接收模块	image receive module
+图像发送模块	image send module
+图像调整	image adjustment
+图像采集设备	image capturing device
+图像审核模块	image verification module
+图库图案显示指令	gallery pattern display instruction
+图库分类目录	library catalogues
+图1标记：	In FIG. 1,
+图案获取模块	pattern obtaining module
+图案目录	pattern catalog
+图案识别模块	pattern recognition module
+图案固化完成指令	pattern curing completion command
+图形处理器	graphics processor
+图形处理器（GPU）	graphics processing unit (GPU)
+光晕区域	halo region
+光晕提取模块	The halo extracting module
+光能	light energy
+光电二极管	hotodiode
+光电编码器	optical encoder
+光电倍增管	photomultiplier tube
+光电管	phototube
+光电三极管	phototransistor
+光纤式光电传感器	fiber optic sensor
+光纤网络	optical fiber network
+光强信号	light intensity signal
+光照装置	lighting device
+光学通道	optical channel
+光敏二极管	photodiode
+光敏电阻	photoresistor
+光敏三极管	phototransistor
+光吸收层	light absorbing layer
+光栅信号计数	raster signal count
+光栅尺	grating ruler
+光栅传感器	raster sensor
+光伏跟踪系统	PV tracking system
+区域	region
+区域增长法	region growing method
+区域块	region unit
+区域网络	wireless local area network
+第一方向	first direction
+第一图像	first image
+第一图案	first pattern
+第一图案目录	first pattern catalog
+第一区域	first region
+第一颜色	first color
+第一颜色范围	first color range
+第一信号	first signal
+第一信号发射器	first signal transmitter
+第一通讯连接	first communication connect
+第一通讯装置	first communication port
+第一通讯接口	first communication port
+第一处理器	first processor
+第一生成单元	first generation unit
+第一网络分支	first network branch
+第一预设数量	first preset number
+第一输入图像	first input image
+第一输入单元	the first input unit
+第一输入端	first input
+第一行	first line
+第一侧打印边缘位置	first side printing edge position
+第一开锁模式	first unlock mode
+第一端部模块	first end portion module
+第一接收模块	first receiving module
+第一账号	first account
+第一账户	first account
+第一速度差值	first speed difference
+第一坐标获取模块	first coordinate obtaining module
+第一限位装置	first limit device
+第一类成员	first member
+第一驱动芯片	first driving chip
+第一驱动装置	first driver
+第一撤销集合	first revocation set
+第一界面	first interface
+第一棘齿部	first ratchet portion
+第一马达	first motor
+第二图像	second image
+第二图案	second pattern
+第二图案目录	second pattern catalog
+第二图案显示模块	second pattern displaying module
+第二区域	second pattern
+第二颜色	second color
+第二颜色范围判断单元	The second color range identification unit
+第二信号	second signal
+第二通讯连接	second communication connect
+第二通讯装置	second communication port
+第二通讯接口	second communication port
+第二生成单元	second generation unit
+第二网络分支	second network branch
+第二预设数量	second preset number
+第二输入单元	the second input unit
+第二行	second line
+第二侧打印边缘位置	second side printing edge position
+第二端部模块	second end portion module
+第二接收模块	second receiving module
+第二时间段	the second time period
+第二账号	second account
+第二账户	second account
+第二速度差值	second speed difference
+第二坐标获取模块	second coordinate obtaining module
+第二限位装置	second limit device
+第二类成员	second member
+第二驱动芯片	second driving chip
+第二驱动装置	second driver
+第二界面	second interface
+第二马达	second motor
+第三图案	third pattern
+第三区域	third region
+第三通讯接口	third communication port
+第三生成单元	third generation unit
+第三接收模块	third receiving module
+第四区域	fourth region
+第四生成单元	fourth generation unit
+第五区域	fifth region
+第六区域	sixth region
+第七区域	seventh region
+第八区域	eighth region
+一体的结构	integrated structure
+一个用户	a user
+一个或多个	one or more
+一个充电接口	charging connector
+一组指令	the set of instructions
+一种或其任意组合	or the like, or any combination thereof
+一种或多种	one or more
+一种或多种的组合	or the like,or any combination thereof
+一种或多种的组合	or the like, or any combination thereof
+一种或几种的组合	any combination thereof
+一种或几种的组合	or the like, or any combination thereof
+一种或几种的任意组合	or the like, or any combination thereof
+一种或任意几种的组合	or the like, or any combination thereof
+一台	a
+一天	one day
+一天中	during each day
+颜色阈值	color threshold
+颜色获取模块	color obtaining module
+颜色参数	color parameter
+颜色识别	Color identification
+色彩通道	color channel
+色彩传感器	color sensor
+色度信息	color information
+色差值	color difference value
+围成的	surrounded by
+高亮区域	highlight region
+高亮区域提取模块	The highlight region extracting module
+高层成员	high-level members
+高度角	height angle
+高速公路收费路段	high-speed toll road section
+高阻抗运放芯片	high impedance op amp chip
+亮度补偿	brightness compensation
+异常信号灯	abnormal signal light
+异常确定模块	The abnormality identifying module
+异常曲线	anomaly curve
+常用快捷方式	ommon shortcuts
+信号	signal
+信号分析	signal analysis
+信号控制部件	signal control component
+信号控制芯片	signal control chip
+信号强度分布	signal intensity distribution
+信号调理芯片	signal conditioning chip
+信号传输芯片	signal transmission chip
+信用评估机构	credit assessment organization
+信道	channel
+信息获取单元221	information acquiring unit 221
+信息网络	information network
+信息数据	information data
+智能交通系统	intelligent transportation system
+智能工厂	smart factories
+智能行动装置	smart mobile device
+智能终端	intelligent terminal
+智能终端	intellignet terminal
+智能电器	intelligent electrical apparatus
+智能手表	smart watch
+智能手环	smart bracelet
+智能手机	smartphone
+智能鞋袜	smart footgear
+智能眼	smart glasses
+智能眼镜	smart glasses
+智慧城市	smart cities
+智慧农业	smart agriculture
+交通信息	traffic information
+交通工具	vehicle
+交通流量	traffic flow
+交通服务	transport service
+交通服务过程	transport service process
+交通服务费	transport service fee
+交通服务费用	transport service fee
+交通服务费预估单元	transport service fee estimation unit
+交通服务费反馈	transport service fee feedback
+交叉进路	a crossing route
+交叉渡线	scissors crossing
+交换	switch
+交换点	switching point
+通信模块220	communication module 220
+通信部件	communication component
+通信装置	communication device
+通过执行	by performing
+通知界面	notification interface
+通讯	communicate
+通讯平台	communication platform
+通讯传输	communication transmission
+系统	system
+系统输出信号	system output signal
+系统存储模块	system storage module
+系统设置图标	system setting icon
+系统设置界面	system setting interface
+系统参数	system parameters
+噪点	hot pixel
+噪声检测	noise detection
+空洞	cavity
+空洞车道形态	void lane shape
+空间位置	spatial position
+空间距离	spatial distance
+包括但不限于	include, but is not limited to
+腐蚀处理	corrosion treatment
+腐蚀因子	corrosion factor
+处理	process
+处理模块	processing module
+处理单元	processing unit
+处理运算	processing operation
+处理设备112	processing device 112
+处理器	processor
+处理引擎	Processing engine
+处理引擎112可以包括	applicatio
+理想状态	ideal state
+膨胀处理	expansion treatment
+膨胀因子	expansion factor
+因此	thus
+因此，作为示例而非限制，本说明书实施例的替代配置可视为与本说明书的教导一致。	thus
+子区域	sub-region
+子处理设备	sub-processing device
+子标签	sub-tag
+子单元	sub-unit
+在以所述当前红绿灯状态的异常信号灯颜色为基准的第二颜色范围内	is within the second color range based on the abnormal signal light color in the current traffic light status
+在本实用新型中	In the present disclosure,
+以图搜图	query-by-example
+以所述当前红绿灯状态的异常信号灯颜色为基准的第二颜色范围	is within the second color range based on the abnormal signal light color in the current traffic light status
+以下通过实施例进行说明	some embodiments may be illustrated below
+所述用户的位置	the location of the user
+所述生命体征信号的所属人群	the associated populations of the vital sign signals
+所述特征参数	the feature parameter
+所述特征参数信息	the feature parameter information
+所述轨迹数据	the trajectory data
+所有用户	all users
+所属人群	associated populations
+的数量	number of
+为理解申请方便	To facilitate understanding of this disclosure
+基于	based on
+基于车道的播报系统100	lane-based broadcast system 100
+基站	base station
+基本信息	basic information
+基础	base
+基学习器	base leaner
+准确性	accuracy
+二维码	two-dimensional code
+二维码登录	QR code registration
+二次审核模块	second verification module
+内部通信总线	internal communication bus
+内部网络	intranet
+内部总线	internal bus
+内部云	internal cloud
+内存的应用	memory application
+内存的操作系统	memory operation system
+内容输出装置	content output device
+偏色	color deviation
+连通区域标记方法	connected region labeling method
+连通域	connected region
+连通孔	communication hole
+连接	connect
+连续的片层图像	successive slice images
+连续指引播报	continuous lane broadcast
+连续路口	continuous intersections
+标准信息	Standard information
+标记：	In FIG. ,
+标定	calibrate
+标签	tag
+标签模块230	tag module 230
+标识位置	identification position
+标识码	identification code
+法线	normal
+由具有标记的至少一个第二连通域组成的所述高亮区域	the halo region consisting of at least one first connected regions with labels
+有线	wired
+有线连接	wired connection
+有线网络	wired network
+有形产品	tangible product
+至少	at least
+至少需要的逻辑信道组的数量	the minimum number of the required LCG
+个人数位助理	personal digital assistant
+个人数码助理	personal digital assistant
+个人知识图谱	personal knowledge map
+个人画像	personal profile
+组件	component
+成交率	deal rate
+成像系统	imaging system
+成像单元	imaging unit
+像素点	pixel
+像素标记法	pixel labeling method
+像素位置	pixel position
+素数	prime
+线标记法	line labeling method
+线性回归分析法	linear regression analysis
+增强实境装置	augmented reality device
+长度灵活可变的缓存状态报告	BSR with flexible length
+长度灵活可变缓存状态报告	the BSR with flexible length
+获取	obtain
+获取子单元	acquisition sub-unit
+获取的数据信息	acquired data information
+获取模块	acquiring module
+获取单元	acquisition unit
+获得模块	obtaining module
+模型	model
+模型训练	module training
+模型训练过程	model training process
+模拟电流信号	analog current signal
+模拟打印	analog printing
+提示部件	prompting component
+提成区间	sale commission range
+提取	extract
+确定	determination
+确定模块	determination module
+确定单元	determination unit
+定位数据点	location data point
+定位功能	positioning function
+定位柱	positioning post
+用于	configured to
+用户体验	user experience
+用户输入	inputted by the user
+用户输入	user input
+用户输入的	inputted by the user
+用户指甲图像	user nail image
+用户指甲区域图像	user nail region image
+用户行为	user behavior
+用户可信度	user credibility
+用户终端	user terminal
+用户终端设备	User Equipment
+用户终端130	user terminal 130
+用户终端检测单元	user terminal detection unit
+用户端	client
+用户手指画面	user finger image
+用户评分	user rating
+用户抢单次数最多	the maximum number of user order snatching times
+用户密度	user density
+用户身份	user status
+用户权限	user rights
+用户意图信息	user intention information
+用户登录图标	user login icon
+重叠判断单元	The overlapping identification unit
+重叠位置	overlap position
+重建参数	reconstruction parameters
+判断模型	determination model
+判断单元	judgement unit
+判断条件	judgment condition
+判别分析法	discriminant analysis
+单目摄像装置	monocular camera device
+单渡线	single crossover
+单横列式折返线	directional transversal type switchback track
+单芯处理设备	single-chip processing device
+单位行距	line spacing
+单位向量	unit vector
+单比特错误	single bit error
+全卷积孪生神经网络	fully-convolutional siamese neural network
+全卷积孪生神经网络模型	the fully-convolutional siamese neural network model
+全卷积神经网络	full convolutional neural network
+卷积处理	convolution processing
+卷积处理	convolution operation
+卷积层	convolution layer
+卷积层	convolutional layers
+卷积运算	convolution operation
+生理	physiological
+生理参数	physiological parameters
+生理参数值	physiological parameter
+生理病理信息	physiological and pathological information
+生成	generate
+生成单元	generation unit
+生命体	living body
+生命体征信号	vital sign signals
+生命体征信号的标签	The tag of the vital sign signal
+生命体征信号分析系统	analysis system of the vital sign signal
+生命特征信号	vital sign signals
+神经网络	neural network
+经纬度坐标	latitude and longitude coordinates
+经历信息	experience information
+网络	network
+网络进出点	network I/O points
+网络侧	base station
+网络环境	network environment
+网络接入点	network access points
+网络架构	network architecture
+网际网络	internet
+网格	grid
+搜索条件	search condition
+局部区域	local region
+局部区域图像	local region image
+局部区域图像的图像特征	the image features of the local region image
+局部极大值点	local maximum points
+部件	component
+分图中	score chart
+分级加密方案	hierarchical encryption scheme
+分散式云	distributed cloud
+分析	analysing
+分析模块220	analysis module 220
+分类器	classifier
+分类器	perceptron
+分类错误	classification error
+分词	participle
+分词处理	word segmentation processing
+分词算法	word segmentation algorithm
+中间站	intermediate station
+中央处理器	central processor,
+中央处理器（CPU）	central processing unit (CPU)
+中介密文	proxy cipher text
+中心线	center line
+中心对准指令	center alignment instruction
+中心位置	center position
+得分图	score chart
+特定信息	specific information
+特定人物	specific person
+特定地点信息单元	specific location information unit
+特征图	feature map
+特征集	set of characteristics
+特征参数	feature parameter
+特征参数信息	feature parameter information
+特别地	Particularly
+征用	requisition
+预置的数据库	preset database
+预先存储	pre-stored
+预设图像质量要求	predetermined image quality requirement
+预设区域	preset area
+预设的期望得分值	preset expected score value
+预设的人工标记的得分图	presert manually calibrated score chart
+预设的价格区间	predetermined price range
+预设的结算周期	predetermined billing period
+预设阈值	preset threshold
+预设分类器	preset classifier
+预设数量	preset number
+预设条件	preset condition
+预设安全级别	predetermined security level
+预设策略	predetermined strategy
+预设次数	predetermined times
+预设规则	preset rule
+预测策略	prediction strategies
+预测类信息	predictive information
+预估方程	estimating equation
+预估交通服务费	estimated transport service fee
+预览显示模块	preview display module
+置信度	confidence
+置信度值	confidence value
+数据信息	data information
+数据空间	data space
+数据包	data packet
+数据处理指令	data processing instruction
+数据处理装置	data processing device
+数据处理结果	data process result
+数据库查询	database query
+数据库查询方法	database query method
+数据库查询指令	data query command
+数据库查询装置	database query device
+数据量	size of the data
+数据表	data table
+数据表有向图	digraph of a data table
+数据加密模块	data encryption module
+数据传输	data transmission
+数据采集装置	data collecting device
+数据管理单元	data management unit
+数字信号处理器（DSP）	digital signal processor ( DSP)
+数字及单位归一化处理	digital and unit normalization processing
+库	database
+支付方式	payment method
+支架	bracket
+支架安装误差	bracket installation error
+支架变形误差	bracket deformation error
+支撑机构	support structure
+输入信息	input information
+输入的	inputted
+输入层	input layer
+输入端	input
+输入装置	input device
+输入/输出模块	I/O module
+输出信号生成单元	output signal generation unit
+输出信息	output information
+输出信息生成单元	output information generation unit
+输出线	output line
+输出模块	output module
+输出端	output
+输出电流	output current
+输出装置	output device
+入射光线	incident light
+入射面	entrance face
+池化处理	pooling processing
+池化层	pooling layer
+池化矩阵	pooling matrix
+化验结果	assay result
+需要指出的是	It should be noted that
+运行	operation
+运行状态	running state
+运行状态数据	operating state data
+运行范围	operating range
+运行维护人员	maintenance staff
+运营商图案目录	operator pattern catalog
+运动	motion
+运动干扰	motion artifact
+运动干扰特性	motion artifactcharacteristics
+运动监测	motion monitor
+运动极限位置	motion limit positi
+运转角度	operation angle
+运转圈数	rotation cycle
+运放芯片	op amp chip
+指示灯板	indicator board
+指示灯透光环	indicator light transmission ring
+指定区域	specified region
+指定数量的点的得分值总和	the total scores of the specified number of points
+指定尺寸的像素点	a pixel in a specified size
+指令信息或程序信息	instructions or applications
+指令集	set of instructions
+指代消解	referential digestion
+指甲图像区域	nail image region
+指甲图像获取	nail image obtaining
+指甲区域	nail region
+指甲区域图像	nail region image
+指甲区域图像获取	image processing method
+指甲区域图像获取方法	nail region image obtaining method
+指甲分割算法	nail segmentation algorithm
+指甲识别分割算法	nail recognition segmentation algorithm
+指甲打印设备	printing device
+指甲曲率值	nail curvature value
+指甲曲率计算模型	nail curvature calculating model
+指甲美化图	nail beautification map
+指甲托	nail holder
+指甲轮廓	nail contour
+指甲底胶	nail glue
+指纹识别模块	wireless transmit module
+条形码	bar code
+先行语	antecedent
+先验信息	prior information
+存储	store
+存储模块	storage module
+存储设备	storage device
+存储器	storage device
+存储器	storage
+存储器	memory
+存储器520	storage 520
+存储装置	storage device
+存储功能	storage function
+存储介质	storage media
+训练的神经网络模型	trained neural network model
+训练样本	training sample
+训练样本数据	training sample data
+程序参数初始化	program parameter initialization
+彩绘打印图标	painted print icon
+道岔	railway junction
+道岔区域	railway turnout area
+道岔控制	railway turnout control
+道岔控制方法	railway turnout control method
+道岔控制方法和系统	railway turnout control method and system
+道岔列表	a railway turnout list
+道岔安全控制逻辑	safety control logic of railway turnout
+道路	road
+道路设施	road facility
+尺寸参数	size parameter
+尺度变换操作	scaling operations
+总预设结算周期	specified billing period
+和/或	and/or
+余弦相似度算法	the cosine similarity algorithm
+相关申请引用说明	CROSS-REFERENCE TO RELATED APPLICATION
+相应的电路	corresponding circuits
+相机上盖	camera cover
+相机镜头组件	camera lens assemblies
+度值差值阈值	gray value difference threshold
+损失值	loss value
+设定位置	set position
+设计费	design fee
+设计费领取模块	design fee module
+设备	device
+设备重置	device reset
+设备条件	device condition
+设备传动误差	equipment transmission error
+设备角度变化	device angle variation
+人体比例模型	body proportions model
+人工标定的期望得分值	manually calibrated expected score value
+人物图案	character pattern
+人机交互	human-computer interaction
+人机交互处理单元	human-computer interaction processing unit
+人群	populations
+工作限位开关	work limit switch
+16个3*3的卷积核	16 convolution kernels in 3*3
+步长	stride
+控制信号	control signal
+控制模式	control mode
+控制模块	control module
+控制指令	controlling instruction
+控制指令	control command
+控制列车运营自动化等级	controlling GOA of train operation
+控制器	controller
+控制流程	control flow
+控制精度不	control accuracy
+轨道交通	rail transit
+轨迹	trajectory
+轨迹数据	trajectory data
+构建	construct
+构建单元	construction unit
+构造	determine
+虚拟实境装置	virtual reality device
+虚拟道岔	a virtual railway turnout
+虚拟人体形象	virtual human body
+虚拟形象	avatar
+虚拟显示设备	virtual reality
+拟人化的动物形象	anthropomorphic animal
+目的地	destination
+目标图像	target image
+目标图像获取模块	target image obtaining module
+目标数据表	target data table
+目标道路设施	target road facility
+目标人脸图像	target face image
+目标折返停车点	a target switchback stopping point
+目标折返停车点所处区域	an area in which a target switchback stopping point in the data space is located
+目标位置	target position
+目标查询字段	target query field
+目标跟踪角度	target tracking angle
+折返	switchback
+折返区	switchback area
+折返区死锁	deadlock of a switchback area
+折返线	switchback track
+折返停车点	switchback stopping point
+停车点	stopping point
+停止指令	stop instruction
+停止动作	stop action
+车道组确定模块	lane group determination module
+车道组可通行确定单元	lane group passability determination unit
+车道形态	lane shape
+车道形态确定模块	lane shape determination module
+车道播报	lane-based broadcast
+车载电脑	laptop computer
+车辆	vehicle
+车辆颜色识别	vehicle color recognition
+车辆动作确定模块	vehicle motion determination module
+车辆速度	vehicle speed
+列车按行车计划行进通过道岔区域	The train travels through the railway turnout area according to the driving plan
+表面线圈	surface coil
+死锁	deadlock
+锁具控制方法和系统	Lock control method and system
+锁具控制系统	lock control system
+锁具控制模块240	lock control module 240
+锁具控制装置	lock control apparatus
+锁具终端140	lock terminal 140
+锁定	lock
+安全防护不足	insufficient safety protection
+安全装置	security device
+安全参数	security parameter
+安装件	mount
+安装板	mounting plate
+防水性能	waterproof performance
+防水透气膜	waterproof gas permeable membrane
+不实信息	false information
+不可通行车道组	impassable lane groups
+不同	different
+进一步	further
+进路	route
+进出点	I/O points
+路线	route
+路面距离	road distance
+路径	route
+路口	intersection
+逻辑信道组	logical channel group
+逻辑信道组标识	LCG ID
+逻辑信道组标识对应的缓存区	buffer size corresponding to the LCG ID
+按需交通服务	on-demand transport service
+按需服务	on-demand service
+按照一定的时间间隔	at regular intervals
+行为状况/状态	behavior status/status
+行车计划	driving plan
+行驶	driving
+行政区域	administrative region
+行向量	row vector
+行李箱	luggage
+计算	calculating
+计算模型	calculating model
+计算机指令	computer instructions
+计算机程序	computer program
+计算机设备	computing device
+计算机可读存储介质	computer readable medium
+计算参数	calculating parameters
+敌对进路	hostile route
+敌手	enemy
+对准模块	aligning modul
+对于本领域的	for persons having ordinary skills in the art
+对应的	corresponding
+对应的价格描述	corresponding price description
+对比模块	comparison module
+对比度获取模块	contrast obtaining module
+对比结果	comparison result
+侧进直出	side in and straight out
+直线距离	straight line distance
+出发地	departure location
+出发地信息	departure location information
+“折返区1”	“switchback area 1′′
+“正常”	normal
+关于订单信息可以参看本申请相关描述	Relevant descriptions of the order information may be found in the present disclosure
+关联信息	associated information
+关联用户	associated user
+关联度	degree of association
+关联轨道	associated track
+联动定位	linkage positioning
+开通	open
+开环控制	open loop control
+开始时间	start time
+双线性群	bilinear groups
+双运放芯片	dual op amp chip
+双路复制传输	two path duplication
+双横列式	bidirectional transversal type switchback track
+双横列式折返线	bidirectional transversal type switchback track
+可通行车道组	passable lane groups
+可以	may
+可以根据实际的需要选择其中的部分或者全部单元未实现本实施例方案的目的。	achieve the objectives of the solutions of the embodiments of the present invention.
+可设为	may be set as
+可选的	Optinal
+可编辑逻辑电路（PLD）	programmable logic device (PLD)
+可读	readable
+可穿戴设备	wearable device
+可追溯性	traceability
+根据本申请的一些实施例	according to some embodiments of the present disclosure
+根据权利要求	The method of claim
+选取单元	selection unit
+选择输入设备	selection input device
+其他具有相似功能的设备	other devices with similar functions
+其他派单模式用户	other users in the order allocation mode
+或几种的组合	or any combination thereof
+未显示在图中	not shown in the figure
+现场可编程门阵列（FPGA）	field programmable gate array (FPGA)
+本体	body
+本发明	the present disclosure
+本申请	the present disclosure
+本披露	the present disclosure
+本披露涉及	The present disclosure generally relates to  , and more particularly, to systems and methods for  .
+本领域的普通技术人员	those skilled in the art
+本领域普通技术人员	those skilled in the art
+动态验证身份	dynamic verified identify
+动物图案	animal pattern
+动物目录	animal catalog
+动作	motion
+动作指令	action instruction
+动力源	power source
+等一种或多种的组合	or the like, or any combination thereof
+等一种或多种组合	or the like, or any combination thereof
+等一种或几种的组合	or the like, or any combination thereof
+等一种或几种的任意组合	or the like, or any combination thereof
+等中的一种或多种的组合	or the like,or any combination thereof
+等或其组合	or the like, or any combination thereof
+等或其任意组合	or the like, or any combination thereof
+等，一种或多种的组合	or the like, or any combination thereof
+等，一种或几种的组合	or the like, or any combination thereof
+等，一种或几种的任意组合	or the like, or any combination thereof
+等，或其组合	or the like, or any combination thereof
+等，或其任意组合	or the like, or any combination thereof
+私有云	private cloud
+私钥	private key
+私钥生成器	private key generator
+云端数据库	cloud database
+云端服务器	cloud server
+公式	formula
+公式	equation
+公共云	public cloud
+公共电话交换网络	public switched telephonenetwork
+公共字段	public field
+公、私密钥对	public-private key pairs
+公钥	public key
+共享单车	bike sharing
+共享功能	sharing function
+共同标签	common tag
+混合云	hybrid cloud
+社区云	community cloud
+社交网络	social network
+社保机构	social security institution
+散射光	scattered light
+终端	terminal
+终端标识	terminal identification
+终端标识获取子单元	terminal identification acquisition sub-unit
+终端设备	mobile device
+终端设备	terminal device
+终端检测设备	terminal detection device
+终端密度	terminal density
+端部模块	end portion module,
+多方位摄像装置	Multi-directional camera device
+多个	a plurality of
+多个第一图案	plurality of first patterns
+多个派单模式用户	a plurality of users in the order allocation mode
+多个CT图像	the plurality of CT images
+多重	multi-
+多分类模型	multi-classification model
+多条电路	a plurality of circuits
+多核多芯处理设备	multi-core and multi-chip processing device
+多根独立的插线	a plurality of patch cords
+多平面重建图像	multi-planar reconstructed image
+多项式算法	polynomial algorithm
+专用指令处理器（ASIP）	application-specific instruction set processor (ASIP)
+专用集成电路（ASIC）	application specific integrated circuit (ASIC)
+集	set
+集群	cluster
+集群组织	cluster organization
+集群组织信息网络	cluster organization information network
+集群成员	cluster members
+集群上层成员私钥生成模块	private key generation module of upper members in the cluster
+集群下层成员私钥生成模块	private key generate module of lower members in the cluster
+集群管理	cluster management
+电信号	electrical signal
+电信网络	telecommunications network
+电能	electrical energy
+电子设备	electronic device
+电路板定位	circuit board positioning
+电性连接	electrically connected to
+电磁辐射	electromagnetic radiation
+电机	motor
+电源模块	power module
+形象	character
+物理处理器（PPU）	physics processing unit (PPU)
+物理上行链路共享数据信道	Physical Uplink Shared Channel
+字段	field
+字幕	subtitle
+场景	scenarios
+场景信息	scene information
+场景识别单元	scene recognition unit
+场景变化数据	scene change data
+编码器	encoder
+广域网络	wide area network
+都会区域网络	metropolitan area network
+会话密钥	session key
+换行信号	linefeed signal
+换行位置	linefeed position
+平板电脑	tablet computer
+平均灰度值获取模块	average gray value obtaining module
+平均灰度值差值	average gray value difference
+膝上型电脑	laptop computer
+上述	the
+上述预设阈值内	within the preset threshold
+上层成员	upper members
+上行资源	uplink resource
+上下班高峰期	rush hour
+上传权限	upload permission
+上透光孔	upper transmission hole
+强度感光组	intensity sensing group
+强度感光元件	intensity sensitivity element
+装置	device
+手机	mobile phone
+手机号	mobile number
+手机终端	user terminal
+环境数据	environmental data
+位置信号	position signal
+位置信息	position information
+性别	gender
+性格信息中	personality information
+接单	accept the order
+接收	receive
+接收单元	receiving unit
+接收者	recipient
+无线	wireless
+无线信号发射端口/接收端口	signal transmission/reception port
+无线连接	wireless connection
+无线网络通信系统	wireless network communications system
+无线传输模块	wireless transmit module
+无线资源控制	RRC
+无人驾驶	unmanned driving
+无形产品	intangible product
+无效数据	invalid data
+检索系统数据库	system database search
+检测模块210	detection module 210
+检测对象	detection subject
+检测床	scanning table
+检查腔	inspection chamber
+检查床	scanning table
+签读取单元211	tag reading unit 211
+卡通人物形象	cartoon character
+卡通目录	cartoon catalog
+卡接块	snap-fit ​​block
+卡持机构	load-bearing component
+卡持结构	card holders
+卡槽	slo
+发电量	power generation
+发射	transmit
+发射装置	transmit device
+发送子单元	sending sub-unit
+发送单元	sending unit
+发送者	sender
+发送终端	sender
+射线发射装置	ray emitting device
+磁场信号	magneticfield signal
+磁性编码器	magnetic encoder
+时域变换	time domain transform
+时间信号	time signal
+时间信息	time information
+时间点	time point
+时间段	time period
+时间戳	time stamp
+时频变换	time frequency transform
+隔离胶	release gel
+被锁设备的预设范围内	within the preset range of the locked device
+读取	read
+作用于	acts on
+作品信息	creation information
+感光信号	photosensitive signal
+感光传感器	photosensitive sensor
+感光采样部分	photosensitive detection component
+感应电流	induced current
+应用场景	application scenario
+非实时	non-real-time
+非智能	unintelligent
+非智能终端	an unintelligent terminal
+非线性映射	non-linear mapping
+非目标数据表	non-target data table
+非保证速率业务	NGBR resource
+非文字的输入设备	non-text input device
+短距离通信技术	short range communication technology
+短距离无线通信技术	short-range wireless communication technology
+离线数据	offline data
+评估模块	evaluation module
+机架	gantry
+机械组件	mechanical assembly
+机械臂	robot arm
+保证速率业务	GBR resource
+保险杠区域	rigion of bumper
+账户信息	account information
+账户通过实名认证时	account is authenticated by real name
+账户注册图标	account registration icon
+账户类型	account type
+账户管理信息	account management information
+快递柜	express boxes
+申请	request
+请求获取单元	service request acquisition unit
+待处理图像	image to be processed
+待处理像素点	pixel to be processed
+待支付	to be paid
+待测路口	intersection to be detected
+待发送数据	the data to be sent
+待发送数据所占用的逻辑信道组	LCG occupied by the data to be sent
+待发送数据的数据量	the size of the data to be sent
+待传输信息	initial message
+付费信息	payment information
+付费码	purchase code
+付费链接	purchase link
+金额	price
+金融及其衍生物投资	financial and derivative investments
+金融领域	financial field
+服务	service
+服务器	server
+服务请求	service request
+服务请求获取单元	service request acquisition unit
+费用总数	total cost
+地图库数据	map library data
+地图导航	map navigation
+地理	geographical
+地理区域	geographical area
+地理位置信息	geographic location information
+地址	address
+收集模块	collection module
+加价	fare increase
+加价倍率	rate of fare increase
+加密	encrypting
+加密信息	encrypted message
+加密文档解密	encrypted document decryption
+加密消息	encrypted message
+价格说明	price description
+价格描述	price description
+执行	execute
+执行主体	execution body
+反馈模块	feedback module
+反馈器件	feedback device
+调用第三方服务应用	third party service applications
+调价条件	price adjustment condition
+调价策略	price adjustment strategy
+调整模块	adjustment module
+已行驶路线	driven route
+已知路口	known intersection
+使用场景	using scenarios
+使用时间	using period
+使用次数	using times
+使用权限	use rights
+使用教程	use tutorial
+使用寿命	service life
+台式电脑	desktop computer
+允许	allow
+并线	lane change
+并线次数最小的车道	lane with the least number of lane-changing
+笔记本	laptop
+笔记本电脑	laptop computer
+、智能眼镜、智能手表、可穿戴设备、虚拟显示设备或显示增强设	handheld game player
+镜头外壳	lens housing
+镜头透光外壳	lens transparent housing
+显示界面	display interface
+显示屏	display screen
+显著	significantly
+掌上游戏机	handheld game player
+游戏目录	game catalog
+游戏场景	shopping scene
+水平镜像指令	horizontal mirror instruction
+水面距离	water surface distance
+船舶	ship
+航空器	aircraft
+最高用户信用/评分	the best user credit/rating
+最高优先级的业务	the resource type with highest priority
+最长有效播单距离	largest effective order spread region
+最短路面拥堵时间	the shortest road congestion time
+最短路径	shortest route
+最短距离	shortest distance
+最短耗时	the least time-consuming
+最大值深度	depth of the maximum
+坐标参数	coordinate parameter
+属于	belong to
+函数	function
+函数关系式	functional relationship
+函数映射	mapping function
+同一	same
+华北平原	North China Plain
+北京市海淀区	Beijing Haidian District
+原始数据	scanning data
+原始人脸图像	original face image
+城市	city
+街区	block
+早高峰	morning peak
+晚高峰	evening peak
+天气信息	weather information
+天气条件	weather condition
+下层成员	lower member
+下透光孔	lower light transmission hole
+赋值	assigning a value
+赋予共同标签	given a common tag
+响应于	in response to
+大于	larger than
+大数据处理	big data process
+小于	less than
+小孔	small hole
+介质	medium
+订单	orders
+订单信息	order information
+订单的出发地	the departure location of the order
+订单请求方	order requester
+订单价格和性别	order price and gender
+订单密度获取子单元	order density acquisition sub-unit
+初步	preliminary
+初始化模块	initialization module
+初始化函数	initialization function
+初始位置	initial position
+参数	parameters
+参考图像	reference image
+参考数据	reference data
+样本	sample
+暂时性	transitory
+传输	transmit
+传输设备	transmission device
+传送	transmit
+向导场景	guide scene
+查询	query
+源数据表	source data table
+维数	dimension
+维度数据表	dimension data table
+抢单	snatch the order
+抢单模式用户	the user in the order snatching mode
+抢单模式用户发送子单元	order snatching mode user sending sub-unit
+验证域	validation domain
+验证单元	verification unit
+验证协议	verification protocol
+密码装置	cryptographic device
+密文	cipher texts
+密钥	key
+密封性	sealing property
+派单模式用户发送子单元	order allocation mode user sending sub-unit
+解密	decrypt
+解密模块	decryption module
+解密单元	decryption unit
+便携设备	portable devices
+依次	successively
+效果预览图案	effect preview pattern
+播报方式确定模块	broadcast manner determination module
+口型动作	lip motion
+识别码	identification code
+新的用户	new user
+打车请求	taxi-booking request
+打印图标	print icon
+打印区域	printing region
+打印点阵图	dot pattern
+打印的轨迹	printing trajectory
+打印像素	printing pixel
+打印指令	print instruction
+打印设备	printing device
+打印进度	print progress
+打印按钮	print button
+打印平台	printing platform
+打印装置	printing device
+打印流程	printing process
+打印移动信号	print moving signal
+打印喷头	printing nozzle
+打印仓门	print bin door
+历史信息	historical information
+历史数据	historical data
+历史运行数据	historical operating data
+历史算法	history algorithm
+历史算法跟踪	history algorithm tracking
+历史订单数据	history order data
+但本申请并不限制本实施例范围内	which are not intended to limit the scope of the present disclosure
+限位信号	limit signal
+限位开关	limit switch
+限位装置	limit device
+限位保护	limit protection
+尤其	in particular
+乘客	passengers
+乘客终端	passenger terminal
+乘客端	passenger terminal
+司机	drivers
+身份信息	identification vector
+身份信息	identity information
+身份信息矢量	identification vector
+身份标识码	identity code
+身份属性	identity attribute
+知识图谱	knowledge map
+知识库	knowledge library
+左转	left-turn
+左转待行区	waiting area for left-turn
+转动方向信号	rotation direction signa
+转接板	adapter plate
+移动终端	mobile device
+移动端	mobile device
+移动端账户	mobile account
+移动物体	moving object
+移动测试	moving test
+群体形象	group character
+采用至少两路的复制传输	in an at least two path duplication transmission mode to the base station
+采集	collect
+采样结果	sampling result
+决策模型	decision model
+修正	modify
+修改后的指甲美化图	modified nail beautification map
+正式打印	actual printing
+正确性	correctness
+正面布局	front layout
+正极	positive electrode
+权重	weight
+权限	authority
+权限购买模块	right purchase module
+脉搏波信号	pulse wave signal
+血小板含量	platelet content
+血氧	blood oxygen
+血氧饱和度	saturation level of blood oxygen
+血压	blood pressure
+血液浓度	haemoconcentration
+弱灌注	poor perfusion
+弱灌注特性	weak perfusion characteristics
+族群	groups
+频域变换	frequency domain transform
+声音信息	voice information
+操作	operations
+操作图标	operation icon
+操作界面	operation interface
+ROI区域	ROI
+视频识别	video recognition
+视频序列	video sequence
+序列码	serial code
+差值计算模块	difference calculation module
+医学成像	medical imaging
+医学成像系统	medical imaging system
+医疗诊断	medical diagnosis
+扫描指令	scanning instruction
+扫描指令	scan instruction
+扫描参数	scanning parameters
+扫描腔	inspection chamber
+扫描床	scanning table
+扫描校准序列	scanning calibration sequence
+患者数据	patient data
+摄像装置	camera device
+摄像头	camera
+充电接口	charging connector
+充电接口或接头	USB port or a charging connector
+充电接头	Universal Serial Bus (USB) port
+充电孔	charging hole
+外部信号	external signal
+外侧	outer side
+外壳	outer housing
+壳体	housing
+沿纵长方向延伸	extended along a longitudinal direction
+纵长方向	longitudinal direction
+延伸	extend
+床板	bed board
+后端部	rear end
+承载	carried
+承载部	load-bearing component
+容积收发线圈	volume coil
+容纳	accommodate
+容纳槽	receiving groove
+邻近	near
+架子	shelf
+结算周期	billing period
+凹槽	grooves
+凹槽	groove
+放置接口	placement interface
+主成分分析法	principal component analysis
+主控计算机	host computer
+主密钥	master key
+遥控设备	mobile device
+驱动信号	drive signal
+驱动设备	drive device
+驱动转矩	drive torque
+倾斜角度	tilt angle
+倾角	inclination
+倾角芯片	tilt chip
+倾角传感器	tilt sensor
+角度信号	angle signal
+角度参数初始化	angle parameter initialization
+角度曲线图	angle graph
+远程控制系统	remote control system
+远程控制终端设备	remote control terminal device
+远程驾驶	long-distance driving
+管理指令	management instruction
+管理列表	management list
+又例如	As another example
+又例如，	As another example,
+再例如	As a further example
+三维	three dimensional
+三维渲染图像	3D rendered image
+病例报告	case report
+病情信息	disease condition information
+情景	scenarios
+情绪特征	emotional feature
+药物过敏	drug allergy information
+药物过敏信息	drug allergy information
+既往病情	past disease condition
+家族病史	family history
+家居场景	home scene
+家居装置	household device
+诊断信息	diagnostic information
+诊断结果	diagnostic result
+治疗方案	treatment regimen
+四维	four dimensional
+文本格式处理	text format processing
+文字输入设备	text input device
+深度学习	卷积层
+消息接收终端	recipient
+消费清单	consumption list
+细粒度移动访问	fine-grained mobile access
+撤销身份域	revocation identify domain
+杂光	stray light
+杂凑函数对	Hash function pair
+杂凑函数UCH	Hash function UCH
+辅助信息	auxiliary information
+辅助参数域	auxiliary parameter domain
+簇头	cluster head
+匿名	anonymously
+界面	interface
+屏锁	screen lock
+误码	error
+比较单元	comparison unit
+探测器	detecto
+探测器	detector
+韦伊配对	Weil pairing
+配件仓	accessory bin
+随机预言模型	random prediction model
+随机数	random number
+随机存储设备	random storage device
+孔壁	aperture wall
+详细描述	Detailed description
+零知识交互协议	zero-knowledge interaction protocol
+互动信息	interaction information
+心电	electrocardio
+心电诊断	cardiac diagnosi
+心率	heart rate
+呼吸频率	respiratory rate
+CH公私钥对生成模块	CH public-private key pairs generate module
+追踪模块	trace module
+简述	SUMMARY
+低层成员	low-level members
+低功耗运放芯片	low power op amp chip
+监测平台	monitoring platform
+真实的现实人物形象	real realistic character
+真实的历史人物形象	real historical character
+真值	true value
+挑战者	challenger
+领款通知	payment notice
+领款回执	payment receipt
+满足特定要求的生命体征信号集	set of vital signs signals satisfying specific requirements
+整理	sort
+逐步稳健回归	stepwise robust regression
+回归	regression
+归一化	normalization
+缓存状态报告	BSR
+灵敏度分布	sensitivity distribution
+业务	resource
+业务类型	resource type of the data to be sent
+优先级	priority of
+优先权信息	CROSS REFERENCE
+超高可靠超低时延通信业务	URLLC recource
+复制传输	duplication transmission mode
+复位点	reset point
+两路	two path
+BSR构造模块	BSR determining module
+BSR传输模块	BSR transmitting module
+圈数	number of cycles
+语法分析	grammar analysis
+语言库单元	language library unit
+语言表达	language representation
+语意信息	semantic information
+语意信息对比	semantics comparison
+语意信息评估	semantic information evaluation;
+语意分析	semantic analysis
+语意字段	semantic field
+语意向量	semantic vector
+语意向量库	semantic vector library
+语意向量映射	semantic vector mapping
+语意识别	semantic recognition
+语意识别模块	semantic recognition module;
+语意识别结果	semantic recognition result
+语音信号	speech signal
+语音信号收集装置	voice signal collection device
+语音特征	voice feature
+语音输入信息	voice input information
+语音导航	voice navigation
+语音识别	voice recognition
+语音识别单元	speech recognition unit
+语义判断单元	semantic judgement unit
+语义分析	semantic analysis
+意图分类器	tent classifier
+筛选条件	filter condition
+投资行为模型	investment behavior model
+投影单元	projection unit
+词性分析	part of speech analysis
+奖罚措施	Bonus measure
+插接件	connector
+透光外壳固定座	light transmissive housing fixing base
+固定件	fixing component
+圆盘部	disk portion
+弹性臂	elastic arm
+普通车道形态	ordinary lane shape
+枪型摄像机支	gun type camera
+齿形转接环	toothed adapter ring
+垂直镜像	vertical mirroring
+垂直镜像指令	vertical mirror instruction
+垂直旋转轴	vertical rotation axis
+否定指引播报方式	negative guide broadcast manner
+肯定指引播报	negative guide broadcast
+肯定指引播报方式	positive guide broadcast manner
+只读存储设备	read-only storage device,
+句式信息	sentence information
+框架3	frame
+匹配关系	matching relationship
+展览馆	exhibition hall
+旅游景区	tourist attraction
+教育场景	education scene
+演出场景	performance scene
+购物场景	shopping scene
+购买请求	purchase request
+购买价格	purchase price
+讲解场景	presentation scene
+讲解员	instructor
+骨折区域	fracture region
+骨折数据和	fracture data
+骨折位置	fracture position
+骨折检测模型	fracture detection model
+骨折检测结果	fracture test results
+骨折发生位置	fracture occurrence position
+骨折症状	fracture symptom
+骨骼图像	bone image
+骨骼分割模型	bone segmentation model
+骨骼掩模	skeleton mask
+骨骼掩膜	skeleton mask
+假阳性区域	false positive region
+肋骨掩膜	rib mask
+肋骨曲面重建图像	rib surface reconstruction image
+曲率	curvature
+极限限位开关	extreme limit switch
+美化图	nail beautification map
+美甲	manicure
+美甲方法	nail art method
+美甲图商城APP	manicure shopping APP
+美甲设备	manicure device
+美甲机	nail art apparatus
+美甲打印模块	printing module
+美甲打印设备	nail printing device
+美甲视频教程	nail video tutorial
+登录信息	login information
+风速信号	wind speed signal
+风景图案	landscape pattern
+风景目录	landscape catalog
+悬浮图标	floating icon
+滑动显示模块	sliding display module
+灰度处理模块	grayscale processing module
+底面	bottom surface
+纹理特征	texture feature
+审核	verification
+审核通过的通知	passing notifiction
+审核通知模块	verification notification module
+审核失败结果	failure reslut
+审核不通过的结果	failure result
+审核时间期限	time period
+审核结果	verifying result
+售卖网页	sales webpage
+售卖网页模块	sales webpage module
+售卖费用	sale cost
+完成打印通知	finish printing notice
+缩略图	thumbnail
+浏览记录	browsing history
+微控制单元	micro control unit
+喷头控制单元	nozzle control unit
+喷墨颜色	inkjet color
+喷墨信号	inkjet signal
+喷墨时间	inkjet time
+喷墨头	inkjet head
+触摸显示器	touch display
+扬声器	speaker
+封胶	sealant
+硅光电池	silicon photocell
+闭环控制	closed loop control
+精密运放芯片	precision op amp chip
+温漂	temperature drift
+太阳光强度	sunlight intensity
+太阳能电池	silicon photocell
+太阳能电池板	solar panel
+跟踪方式	tracking mode
+跟踪支架	tracking bracket
+跟踪运动	tracking motion
+跟踪控制	tracking control
+跟踪轨迹曲线	tracking trajectory curve
+跟踪效果	tracking effect
+凸块	bump
+背面布局	back layout
+辐射量	radiation amount
+辐射强度	radiation dose
+聚类分析法	cluster analysis
+故障处理	malfunction process
+故障处理进度	malfunction processing progress
+故障提示	malfunction notification
+故障数据	malfunction data
+故障时间	malfunction time
+故障类型	malfunction type
+故障情况	malfunction condition
+故障报警阈值	malfunction alarm threshold
+突发型故障	burst malfunction
+渐变型故障	gradient malfunction
+警报信号	alarm signal
+警报提示	alarm notification
+警报提示灯	alarm light
+紫外传感器	ultraviolet sensor
+顶面	top surface
+4芯户外屏蔽线	four core outdoor shielded cable
+负极	negative electrode
+半封闭结构	semi-closed structure
+夹角	included angle
+受光区域	light region
+仅作为示例	merely by way of example
+用户指甲	user's nails
+用户指甲灰度图像	gray image of the user's nail
+所述	the
+获取模块	obtaining module
+获取单元	obtaining unit
+模块	module
+卷积核	convolution kernel
+数据	data
+其中	wherein
+其特征在于	wherein
+参数	parameter
+扫描设备	scanning device
+外壳体	outer housing

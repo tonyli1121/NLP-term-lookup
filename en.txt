@@ -1,0 +1,216 @@
+console assembly for an automated retrieval and storage terminal for retail orders
+Inventors: Tarmo Must, Mihkel Ilp, Arno Kütt, Harry Nuudi, Rein Saetalu
+This application claims priority of U.S. 
+provisional application number 62/847,813 filed on May 14, 2019 the content of which is incorporated herein by reference. 
+Field of invention  schematic diagram
+This invention relates generally to self-service parcel terminals, and more specifically to automated terminals for retail item orders and a method to deliver and retrieve retail item orders to and from the terminal. 
+Even more specifically this invention relates to the retrieval and loading area of the terminal. 
+Background of the invention
+There are various kinds of parcel terminal solutions and processes to control inserting and discharging objects known from the prior art. 
+One general approach is to store each parcel or item in a separate locker or shelf. 
+For example, US 20160244260 discloses an automatic warehouse including a storage shelf and a carriage device that carries a package.
+In some other disclosures there are solutions where a parcel is automatically brought to an openable compartment for the user to pick the parcel therefrom. 
+One such system is disclosed in US 20150302351 which discloses a carousel-like system used instead of a conventional parcel system based on a shelf system. 
+Compared to the generally known solutions where each parcel is stored on a shelf in a separate locker or container with a door, the shelves in this system form a conveyor system moving circumferentially and multiple doors located one above the other for inserting and retrieving parcels have been provided at the access point of the storage compartment. 
+US 8,919,637 discloses a parcel storage dynamically allocating storage space for parcels. 
+The system has slots with various sizes to load and retrieve small items like mail or larger items like parcels. 
+It is clear however, that the consumers are today ordering not only consumer products online, but more and more grocery shopping is conducted via the internet. 
+Due to the requirement of different storage temperatures, groceries cannot be handled as bulk, and even one order from a single customer most likely requires storing the items in different temperatures. 
+However, the above-mentioned systems are not meant for groceries. 
+US 6,467,293 teaches a grocery delivery vehicle. 
+The vehicle is adapted to hold and transport groceries for home delivery. 
+The storage includes multiple compartments maintained at different temperatures to keep items place therein refrigerated, frozen or at ambient temperature. 
+Each of the compartments are accessible from outside. 
+EP 1614376 discloses a method of delivering groceries purchased over the internet. 
+The method includes filling up internet orders in a warehouse by filling the ordered groceries in totes, moving the totes into a truck transporting the groceries closer to destination and smaller vehicles then picking up totes from the truck to deliver the totes to customer’s homes. 
+US7,054,832 discloses a general method and system for selling merchandize. 
+The method includes receiving an order from a customer for a product desired to be picked up by the customer at a given location, readying the product for customer pickup at the given location after receiving the order, detecting the arrival of the customer, and moving the product to a loading station at the given location for customer pickup.
+The shortcoming of the currently known solutions is that there is no solution for a fast and efficient system for handling retail item orders, specifically grocery orders in a storage terminal.
+Accordingly, there is a need for an efficient and safe system for retrieving and loading retail items, especially grocery orders to and from a storage terminal. 
+SUMMARY OF THE INVENTION 
+It is an object of this invention to provide a console assembly for an automated retail item retrieval and storage terminal, said assembly comprising a user console and at least one inner console;
+ the user console located on an outer wall of the terminal and being configured for a user at least to identify himself and/or to receive and/or provide information of an order to be retrieved or to be loaded, the user console comprising at least an input device comprising at least a touch screen and scanners, and an instrument unit comprising a motion detector, a speaker and a microphone;
+ the at least one inner console located inside the terminal against the wall on which the user console locates;
+ the inner console comprising an insulated chamber having four sides such that one of the four sides faces the wall on which the user console locates, and one of the four sides has an access opening facing an aisle along which an automated transporting mast with a loader is moving inside the terminal, the inner console further comprising a lockable console door providing access to the inner console from outside the console, and the inner console being configured such that a receptacle retrieved by the loader can be inserted through the access opening into the insulated chamber and a user opening the lockable console door has an access to contents of the receptacle. 
+It is an object of the invention to provide a console assembly for an automated retail item retrieval and storage terminal, wherein the assembly comprises a user console and two inner consoles configured to be accessed by a user in a parallel manner to retrieve or load retail orders, preferably grocery orders, from or to the terminal.
+It is an object of the invention to provide a console assembly for automated retail item retrieval and storage terminal configured to allow a user to retrieve grocery orders from grocery totes stored in the terminal and/or load grocery orders into grocery totes to be stored in the terminal. 
+BRIEF DESCRIPTION OF THE FIGURES
+Figure 1 shows a partially opened view of a retail item terminal. 
+The figure illustrates the terminal 1 comprising an outer shell 10, a horizontally moving mast 400 and a loader 200 attached to the mast. 
+Inside the terminal there is shown a row of shelf posts 403. 
+A user console 600 is shown on a short side of the outer shell along with an open inner console door 506 providing an access to inner console.
+Figure 2A shows the front end of the terminal having a user console 600 for a customer to place and retrieve orders. 
+Both of the inner console doors 506 are closed in this view. 
+The figure shows also console dome cameras 603, LED lights 604, viewing window 605 and instrument unit 606. 
+Figure 2B shows the front end of the terminal having a user console 600 for a customer to place and retrieve orders. 
+The console doors 506 are open and the customer has access to both of the inner consoles 505. 
+Shown are also light curtains 511, as well as end user scanners 601a, b and touch screen assembly 602. 
+Figure 3 shows a partially opened perspective view of the automated terminal. 
+The inner frame with shell posts for storing receptacles filled with the orders is visible. 
+User console 600 is shown, as well as inner console 505 with console door 506 open. 
+A counter 512 is shown. 
+Figure 4 shows another partially opened perspective view of the automated terminal. 
+The shelf posts are shown, as well as the rail for a mast to move horizontally. 
+Insulated chamber 507 of the inner console is shown with the access opening 508 in its bottom part. 
+Light curtains 511 are shown as well as the guide rails 509 attached on the walls of the insulated chamber inner frame. 
+A camera 510 is also shown. 
+5A is an illustration of a dip-in tote frame 101. 
+The frame has four sides (side rails) a, b, c, and d that leave an empty rectangular space e in the middle. 
+The dimensions of the empty space are such that a tote that has an outward extending upper edge around its top can be dipped through the empty space and the tote will rest on the side rails of the frame supported by its outward extending upper edge. 
+At least two opposite side rails are broader than the outward extending edge such that when the tote rests on the frame the outer parts of the side rails are not covered by the edge (seen in figure 5B). 
+These outer parts will be supporting the tote fixed in the frame on the guide rails of the loader (seen in Figure 6). 
+5B shows a tote 100 inserted into the frame 101. 
+The steel plate 102 is also shown. 
+The four sides of the tote frame are snugly attached around the tote such that the tote is supported by the frame from its outward extending upper edge 100a. 
+6 is a view from inside the inner console toward the tote 100. 
+The tote is resting on the U-shaped guide rails 509 of the inner console by means of the tote frame side rails. 
+The tote frame is locked into the inner console with a lock 516 and lock bolt 517 to prevent the frame to be removed from the inner console by a user.
+DETAILED DESCRIPTION OF THE INVENTION 
+The invention is now described in more details with reference to Figures 1-6 herein. 
+The console assembly of this invention is part of a retail item terminal as is shown in Figure 1. 
+With the term console assembly it is meant the area for user to have interaction with the automated terminal, where the items are retrieved and loaded and where communication with the automated system can be conducted. 
+The terminal 1 is preferably a transportable container and the console assembly comprises a user console 600 and at least one, and preferably two inner consoles 505. 
+The user console is outside the container for the user to interact with the terminal. 
+The at least one inner console is located inside the terminal space and it is in essence the area where the automated terminal delivers retail item orders (e.g. 
+grocery orders) from inside the terminal where they have been stored in receptacles for customer to pick up, and where a courier or retail store personnel can load customer orders for the automated terminal to move to store them. 
+Picking up and loading orders takes place through the inner console doors 506 which are lockable and are programmed such that they can be opened only when a user (customer for pick up or courier for load in) has identified him/herself at the user console 600. 
+Further safety features are built in the inner console in form of light curtains 511.
+According to a preferred embodiment the retail items are grocery items and the terminal is storing the grocery items in grocery totes 100 that are provided to the customer via the console assembly. 
+A courier or retail store personnel is preferably loading the grocery orders into the terminal via the console assembly in standard grocery totes. 
+Figure 1 shows the terminal 1 having an outer shell 10. 
+Inside the outer shell there are two rows of shelf posts 403. 
+(Due to the partially opened view only one row is shown intact). 
+The shelf posts are located such that receptacles, preferably grocery totes can be stored between guide rails attached on the shelf posts. 
+Between the shelf posts is an aisle along which a mast 400 is configured to move horizontally. 
+A loader 200 is attached to the mast and the loader is configured to move vertically along the mast. 
+The mast and the loader are controlled by a computerized system such that the mast moves to desired position inside the terminal and the loader moves vertically to height of a desired grocery tote stored between two shelf posts. 
+The loader then extends to reach the grocery tote, attaches to the tote from above and pulls the tote out from the shelf. 
+The mast is then configured to move next to the inner console 505 that is on same side of the aisle as the shelf from which the tote was picked from and the loader then pushes the tote into the inner console via an access opening 508 that locates at a lower part of insulated chamber 507 of the inner console and faces the aisle. 
+The customer who first has identified him/herself at the user console 600 can then open the console door 506, reach to the filled in tote through the console door and pick up his order. 
+When a retail store personnel or a courier wants to store orders in the terminal, they identify themselves at the user console 600, and open the console door 506. 
+In certain embodiments the mast and loader assembly has picked an empty tote from the terminal and brought it to the inner console 505 through the access opening 508 of the insulated chamber of the inner console. 
+The courier can reach to the empty tote through the open console door 506, and insert the order into the tote through the open door. 
+In certain embodiments the courier brings the orders in a grocery tote and inserts a filled in tote into an empty inner console 505 via the opened console door 506. 
+The loader pulls the full tote from the console via the access opening and attaches on top of the tote. 
+The mast moves to a desired location in the terminal and the loader moves vertically to level of an empty shelf in the terminal and pushes the tote into the selected shelf for storage. 
+Below is the user console and the inner console structures and operations described in more details. 
+Referring now specifically to Figures 2A, B and 3, the terminal has a user console 600. 
+The user console is attached onto the outer shell 10 of the terminal. 
+The attachment according to one preferred embodiment is via hinges such that the user console can be opened when necessary to provide full access into the terminal. 
+Other attachment means are also possible.
+The user console is installed preferably at a short end of the terminal. 
+Inside the terminal the shelf posts forming the space to store the orders locate along the long sides of the terminal. 
+The user console serves as an interaction area of the terminal. 
+The user console comprises an input device which according to a preferred embodiment comprises a touch screen 602, and two scanners 601a and 601b. 
+The user console preferably also contains an NFC (near field communication) module and an ADA (Americans with Disabilities Act) -compliant headphone jack with a volume control button. 
+The user console further comprises a motion detector, a speaker and a microphone;
+ in figure 2 A these are hidden in instrument unit 606. 
+A customer retrieving his/her order(s) which preferably was/were made online, will enter via the user console 600 his/her credentials received when making the order. 
+The credentials may include, for example, an order number, customer’s identity, and items that are picked up this time. 
+A courier delivering groceries to the terminal is also required to identify him/herself at the user console. 
+Depending whether the person identifying at the user console is customer or a courier, the system will be activated to be on retrieval mode (also called customer mode) or loading mode (also called courier mode). 
+According to one preferred embodiment the system is in idle mode when not activated to be on retrieval or loading mode. 
+According to another embodiment the retrieval mode may be a default mode.
+The presence of the user at the console may be recognized by a motion sensor. 
+A scanner 601 a,b will be activated and the user may be identified by scanning a previously generated unique single-use code, such QR-code, a bar code, a combination of number/letter, etc., with the scanner. 
+The code will indicate whether the user is a customer (i.e. 
+retrieval mode) retrieving his/her groceries or a courier (i.e. 
+loading mode) to load in ordered groceries. 
+According to one preferred embodiment the system is on idle mode and will be switched to retrieval mode upon customer identifying him/herself or to courier mode upon a courier identifying him/herself. 
+According to another preferred embodiment a default mode of the terminal is customer mode (retrieval mode) and upon a courier identifying him/herself the terminal switches to courier mode (loading mode). 
+The controller may receive scanned signals from the scanner, and the controller may transmit scanned information to the central server. 
+The terminal has at least one inner console 505. 
+Now referring specifically to Figures 3 and 4, the terminal has preferably two inner consoles 505. 
+Both of the inner consoles locate inside the terminal at that end of the terminal where the customer console 600 locates. 
+In case the terminal has two inner consoles, they locate at opposite sides of the aisle along which the mast 400 moves. 
+Each of the consoles locate at the end of a shelf post row. 
+Both of the inner consoles comprise an insulated chamber 507. 
+Both of the inner consoles have at least one door 506. 
+This door, when opened gives access into upper portion of the inner console from outside the terminal. 
+The door is preferably of glass or other transparent material. 
+This door is locked by default while the mast 400 or the loader 200 is moving. 
+According to one embodiment the door(s) may be opened when the terminal is on courier mode (loading mode) even at same time when the mast moves. 
+The doors can be locked in an open position by a courier having access to the terminal. 
+According to one embodiment the doors are automated via a motorized solution and the handover of the delivery thus can be contactless. 
+Automated closing and opening may for example be controlled via a smart phone.
+Both of the insulated chambers 507 have an access opening 508 accessible to the loader 200. The insulated chamber has four sides and the access opening 508 locates on the side that faces toward the aisle along which the mast with the loader is moving. 
+The access opening 508 has dimensions such that the loader can insert or remove a receptacle (preferably a grocery tote) into or from the insulated chamber via the access opening.
+According to one preferred embodiment the bottom part of the console has guide rails 509 on its inner surface on walls perpendicular to the aisle. 
+These guiderails locate close to the upper edge 508a of the access opening 508. 
+The guide rails are configured such that they can support a receptacle, preferably a grocery tote 100 that is inserted into the dip-in frame 101, in between of them. 
+The terminal is configured preferably to store the orders (retail items or groceries) in standard grocery totes 100 (shown in figure 5B). 
+In certain embodiments, the totes may come in different sizes preferably based on their depth, but also the length may differ. 
+According to a preferred embodiment, to accommodate totes with different lengths different sized tote frames may be used. 
+The frame may also be adjustable for different sized totes. 
+Referring to figure 5A according to a preferred embodiment the frame has four side rails a, b, c, d such that the side rails leave an empty space e in the middle to adapt a tote dipped into the empty space. 
+Such a tote frame is called here dip-in-tote frame. 
+The totes are not by default locked into the frame, which allows removing the tote from the frame when the frame with a tote is brought into the inner console 505. 
+The frame has preferably a metal plate 102 on one edge. 
+The metal plate is used as an attachment point for an electromagnet of the loader to push the tote into the console or pull it out from the console through the access opening. 
+The frame can be made of different materials including but not limited to steel, stainless steel and different thermoplastics and composites. 
+According to one preferred embodiment, as is shown in Fig. 
+5B, the grocery tote 100 has an outward extending edge 100a around its top opening. 
+When the tote is inserted into the frame 101 the edge rests on the frame side rails. 
+The width of the at least two opposite side rails is broader than the outward extending edge such that when the tote is resting on the frame part of the side rails remains not covered by the outward extending edge. 
+This uncovered part fits inside the U-shaped guide rails 509 of the inner console and thereby the tote 100 attached to the frame is supported between the guiderails (shown in Figure 6). 
+According to a preferred embodiment the tote frame slides along the guiderails 509 that are positioned inside the insulated chamber of the inner console. 
+According to certain embodiments the guiderails are closed on top thus having a U-form cross section and the tote frame edges are housed inside the U-formed cross section (shown in figure 6). 
+This way the tote frame cannot be pulled upwards and out of the inner console. 
+According to one preferred embodiment once when entered into the inner console the frame becomes locked to the inner part of the console via a lock 516 and a lock bolt 517 so that it is impossible to accidentally move the tote frame when removing the order or the tote through the console door 506. 
+The lock also prevents the frame sliding backwards toward the aisle of the terminal. 
+Once the tote 100 is completely moved through the access opening 508 into the insulated chamber 507 of the inner console, the user having identified him/herself at the user console 600 can open the console doors 506 and reach to the tote. 
+The access opening locates at such height that when the tote is pushed through it into the insulated chamber and the console door is opened the user (customer/courier) can readily reach to the contents of the tote. 
+According to a preferred embodiment a customer retrieving his/her groceries is not removing the tote but only the items inside the tote. 
+However, according to another preferred embodiment the customer or courier may pick up the tote and return an empty tote to a dedicated place or replace an empty tote with a full tote. 
+On the ceiling or an upper part of the inner console there is a camera 510 for taking pictures of the totes inside the inner console. 
+According to a preferred embodiment, the terminal has two inner consoles 505 to operate the terminal with greater efficiency by allowing the mast 400 and the loader 200 to operate at one inner console while customer or courier is operating at the other. 
+In a case of two inner consoles, the consoles are located on opposite sides of the short end of the terminal such that the mast moves on a rail between the consoles. 
+According to one embodiment both of the inner consoles may be operated simultaneously: a user may retrieve or insert groceries from both of the inner consoles one after another, or alternatively a courier may load grocery orders one after another at both of the inner consoles. 
+The essence being that both of the consoles can be used parallelly either for loading or for unloading. 
+To allow parallel operation of both consoles, opto-electronic safety light curtains 511 (Fig 2B) are placed into the console door opening. 
+If these safety light curtains 511 are obstructed, a signal is received by the computing system of the terminal and the tote frame cannot be moved from the inner console by the loader. 
+This functionality is also implemented in courier regime: while the courier can remove totes from the terminal, the loader cannot move the tote before the safety light curtains at the door opening are unobstructed. 
+Similarly, the access opening at the bottom part 508 of the inner console contains safety light curtains 511 (Fig. 
+6) that need to be unobstructed before the tote can be removed from the inner console. 
+This will also ensure that nothing is in the way of the mast and loader while they move towards the inner console. 
+According to a preferred embodiment the inner console also has optical sensors that detect oversize. 
+These sensors detect oversize while the tote is being pulled onto the loader from the inner console through the access opening. 
+If any oversize is detected the tote is pushed back to the console and the user console will instruct the user to remove part of the items.
+The inner console 505 also has a counter area 512 (shown in figure 3). Parts of the sidewalls 513 of the inner console and the counter are preferably made out of brushed stainless steel to ensure high resistance to scratches that can occur during tote switching, these parts of the sidewalls are also placed in such a way that a space is left on the sides of the tote to allow easy access to tote handles so that the placement and removal of the tote is as easy as possible. 
+In essence, this means that the width of the insulated chamber of the inner console is slightly broader than the length of the tote to allow easy access for the customer or the courier to the tote handles. 
+10 – outer shell
+505 – inner consoles (2 of them)
+506 – inner console door 
+507 – insulated chamber
+508 – access opening 
+508a – upper edge of the access opening 
+509 – guide rails for a grocery tote 
+510 – camera (records and allows video stream of the inner console)
+511 –safety light curtains
+513 – bottom parts of sidewalls of inner console
+600 – user console
+601a, b – end-user scanners
+602 – touch screen assembly
+603 – console dome cameras
+604 – LED lights
+605 – viewing window
+606 – instrument unit (houses a cover plate which hides motion sensors and the conference call system)
+A console assembly for an automated retail item retrieval and storage terminal, said assembly comprising a user console 600 and at least one inner console 505;
+the user console located on an outer wall of所述terminal and being configured for a user at least to identify himself and/or to receive and/or provide information of an order to be retrieved or to be loaded, 
+the user console comprising at least an input device comprising at least a touch screen 602 and scanners 601, and an instrument unit 606 comprising a motion detector, a speaker and a microphone;
+the at least one inner console located inside所述terminal against所述wall on which所述user console is located;
+the inner console comprising an insulated chamber 507 having four sides such that one of所述four sides faces所述wall on which所述user console locates, and one of所述four sides has an access opening 508 facing an aisle along which an automated transporting mast 400 with a loader 200 is moving inside所述terminal, 
+the inner console further comprising a lockable inner console door 506 providing access to所述inner console from outside所述console,
+and所述inner console 505 being configured such that a receptacle retrieved by所述loader can be inserted through所述access opening 508 into所述insulated chamber 507 and a user opening所述lockable inner console door 506 has an access to contents of所述receptacle. 
+The console assembly of claim 1, wherein所述inner console doors are automated and opening and closing is controllable via a smart device, whereby handover of所述orders is contactless. 
+The console assembly of claim 1 or 2, wherein所述insulated chamber has two guide rails 509 on two opposite sides at a level of upper edge of所述access opening 508a such that所述receptacle rests between所述guide rails when所述loader inserts所述receptacle through所述access opening. 
+The console assembly of any of所述previous claims, wherein所述receptacle is a grocery tote 100 fixed into a dip-in frame 101. 
+The console assembly of claim 4, wherein所述guide rails have a U-shaped cross section and two siderails of所述dip- in frame fit within所述U-shaped guide rails.
+The console assembly of claim 4 or 5, wherein所述guiderails have an electronic lock 516 in one end locking所述dip-in frame in place.
+The console assembly of any of所述previous claims, wherein所述access opening has a light curtain 511, and wherein所述console door 506 cannot be opened while所述light curtain is obstructed.
+The console assembly of any of所述previous claims, wherein所述opening of所述console door 506 has a light curtain and wherein所述receptacle cannot be inserted through所述access opening 508 when所述light curtain is obstructed. 
+The console assembly of claim 1, wherein所述assembly has two inner consoles 505, and所述console doors open to each side of所述user console.
+The console assembly of any one of所述previous claims, wherein所述user console 600 is attached to所述terminal with hinges.
+The console assembly of any claim 9, wherein a user can retrieve or load orders parallelly from both of所述inner consoles via所述console openings.
+This invention discloses a console assembly for an automated retail item storage and retrieval terminal. 
+The assembly comprises a user console for the customer to interact with the terminal, and at least one inner console which comprises an access opening for a loader to push in or pull out a receptacle, and a door allowing the customer to reach from above to the receptacle. 

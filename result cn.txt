@@ -1,0 +1,45 @@
+本领域普通技术人员	those skilled in the art
+根据权利要求	The method of claim
+获取模块	obtaining module
+具体实施方式	Detailed description
+包括但不限于	include, but is not limited to
+对于本领域的	for persons having ordinary skills in the art
+其特征在于	wherein
+获取	obtain
+处理模块	processing module
+选取单元	selection unit
+一种或多种	one or more
+实施例	embodiments
+本申请	the present disclosure
+一个或多个	one or more
+对应的	corresponding
+图像特征	image feature
+第一参考图像	first reference image
+确定	determination
+第二参考图像	second reference image
+处理	process
+处理单元	processing unit
+装置	device
+本发明	the present disclosure
+用于	configured to
+第一确定单元	first determination unit
+第二确定单元	second determination unit
+移动终端	mobile device
+具体实施	in specific embodiment.
+传输设备	transmission device
+例如	e.g.,
+存储器	memory
+存储装置	storage device
+上述	the
+传输	transmit
+基于	based on
+进一步	further
+参考图像	reference image
+其中	wherein
+包括	comprise
+数据	data
+所述	the
+图像	image
+可以	may
+多个	a plurality of
+准确性	accuracy

@@ -1,0 +1,2122 @@
+The at least one	所述至少一个
+Regression model	回归模型
+memory	存储器
+regression model	回归模型
+the at least one	所述至少一个
+The present disclosure	本申请
+the present disclosure	本申请
+user interface	用户界面
+User Interface	用户界面
+further	进一步
+memory	存储器
+Distribution interface	分配接口
+distribution interface	分配接口
+As a further example	再例如
+as a further example	再例如
+curve diagram	曲线图
+curve fitting	曲线拟合
+curve fitting unit	曲线拟合单元
+流程图	flowchart
+application	申请
+application	应用程序
+application	应用
+generally	一般
+schematic diagram	示意图
+flowchart	流程图
+FIG.	图
+FIG.	FIGURE
+.	。
+speech recognition	语音识别
+according to	根据
+speech recognition system	语音识别系统
+speech source	语音源
+speech data	语音数据
+speech signals	语音信号
+speech segments	语音段
+speech segments	语音段
+speech segment	语音段
+recognition module	识别模块
+system	系统
+audio signal	音频信号
+audio portions	并且
+audio data	音频数据
+audio segment	音频片段
+audio portion	音频部分
+audio clip	音频片段
+As shown in FIG.	如图所示
+As used herein	如上文所述
+As another example	又例如
+As still another example	再例如
+in the speech database	在语音数据库中
+in the present disclosure	在本申请中
+in the art	本领域
+in response to	响应于
+in step	在步骤
+in a form of a chart	图表形式
+in part	部分
+in real time	实时
+in this disclosure	本发明中
+in accordance with various embodiments	根据一些实施例
+in terms of the determination that 判断的内容（否定陈述句，一般时态），导致的结果（谓语动词前加may）	否则，…
+in terms of the determination that 判断的内容（陈述句，一般时态），导致的结果（谓语动词前加may）	如果是，则
+according to some embodiments of the disclosure	根据本申请一些实施例
+according to some embodiments of the present disclosure	根据本申请的一些实施例
+to actuate	驱动
+some embodiments	一些实施例
+the audio frame	音频帧
+the disclosure	申请
+the sensor signal	传感器信号
+the corresponding partition	相应分区
+the first value function	第一价值函数
+the first value function	第一个价值函数
+the first flag	第一标签
+the first time point	第一时间点
+the first regression model	第一个回归模型
+the first clustering procedure	第一聚类算法输入
+the first clustering procedure	第一聚类过程
+the first stop criteria	第一停止标准
+the first stop criteria	第一停止条件
+the first projection point	第一个投影点
+the first prompt message	该第一提示消息
+the first angle range	第一角度范围
+the second regression model	第二个回归模型
+the second regression model	第二回归模型
+the second radiation segment	第二放射段
+the second iterative operation	第二迭代
+the second iterative operation	第二迭代操作
+the second projection point	第二个投影点
+the second prompt message	第二提示消息
+the mapping unit 420	映射单元420
+the information and/or data relating to the target route	与所述目标路线关联的所述信息和/或数据
+the actuator	激励器
+the reference image	参考图像
+the reference path	参比路径
+the reference path	参考路径
+the third original intensity level	第三原始强度等级
+the third prompt message	所述第三提示消息
+the fourth position	第四位置
+the scope of the present disclosure	本申请的范围
+the one or more second candidate paths.	一个或多个第二候选路径
+the key has reached the fifth position	琴键已经到达第五位置。
+the plurality of	多个
+the plurality of first positions	所述多个第一位置
+the "top" position.	“顶部”位置
+the threshold	阈值
+the current time	当前时间
+the sound volume	音量
+the storage 220	存储器220
+the determined values	测定值
+the determined values	确定的值
+the trajectory	轨迹
+the online to offline service	线上到线下服务
+the center of the container	所述容器中心
+the loss function	损失函数
+the processor	处理器
+the cloud server	云服务器
+the base image	基本图像
+the destination	目的地
+the discriminative model	判别模型
+the generative model	生成模型
+the driving distance	行驶距离
+the linear regression model	线性回归模型
+the auxiliary attributes	辅助属性
+the feature identification	特征识别
+the set of one or more optimization goals	至少一组优化目标
+the set of instructions	一组指令
+the set of instructions	指令
+the target address query	目标地址查询
+the target path	目标路径
+the target AOI	目标AOI
+the target AOI.	目标AOI
+the at least one processor may be directed to	所述至少一个处理器可以用于
+the at least one processor may be further directed to	所述至少一个处理器可以进一步用于
+the sub-table	子表
+the historical route	所述历史路线
+the historical long-term value	历史长期价值
+the identified road feature	识别道路元素
+the frequency of eye-blinking	眨眼频率
+the frequency of yawning	打哈欠频率
+the heat dissipation	散热
+the overheating degree	过热度
+the degree of drowsiness	困倦程度
+the solenoid	螺线管
+the working modes	工作模式
+the physical module 114	物理模块114
+the compression data	压缩数据
+the coil	线圈
+the address query	地址查询
+the link of the historical route	所述历史路线关联的所述链路
+the road feature	道路特征
+the prediction model	预测模型
+the candidate points	候选点
+the candidate clusters	候选聚类
+the candidate clusters	候选簇
+the classifier	分类器
+the classifier.	分类器
+the correlation threshold	相关性阈值
+the pre-set interval	预设间隔
+the pivot grid	枢轴网格
+the smoothing window	平滑窗口
+the taget user terminal	目标用户终端
+the densest points	最密集的点
+the shock wave theory	冲击波理论
+the morning peak interval	早高峰间隔
+the Sarsa-learning algorithm	Sarsa学习算法
+the entry box	该输入框
+disclosure	发明
+intensity level	强度级
+intensity level	强度等级
+intensity level.	强度等级
+calibration module	标定模块
+processing system	处理系统
+processing module	处理模块
+processing device	处理设备
+processing device 140	处理设备140
+processing engine	处理引擎
+processing unit	处理单元
+processing parameters	加工参数
+processing circuit	处理电路
+processing relating parameters	处理相关参数
+processing circuits	处理电路
+device	设备
+device information	设备信息
+sensor data	传感器数据
+musical system	音乐体系
+musical system	音乐系统
+musical device	音乐设备
+musical instruction	音乐指令
+musical notes	音符
+musical instrument	乐器
+corresponding to	对应于
+corresponding data	对应数据
+original intensity	原始强度
+original intensity level	原始强度等级
+original intensity level	第三原始强度等级
+original request features	原始请求特征
+first	第一
+first intensity	第一强度
+first intensity level	第一强度等级
+first device	第一设备
+first sensor	第一传感器
+first sensor signal	第一传感器信号
+first lookup	第一查找表
+first table	第一表格
+first reference	第一参考值
+first reference value	第一参考值
+first value of the sensor signal	所述传感器信号的第一参考值
+first element	第一元素
+first indication	第一个指示
+first indication	第一指示
+first position	第一位置
+first service requester	第一服务请求者
+first point	第一点
+first subset	第一子集
+first subset of users	用户的第一子集
+first line	第一行
+first image slice	第一图像部分
+first distance	第一距离
+first regression model	第一回归模型
+first feature	第一特征
+first feature vector	第一特征向量
+first set of imaging data	第一组成像数据
+first transportation service request	第一运输服务请求
+first route	第一路线
+first user subset	第一用户子集
+first direction	第一方向
+first vector	第一向量
+first sub-model	第一子模型
+first sub-nodes	第一子节点
+first tags	第一标签
+first historical characteristic data	第一历史特征数据
+According to	根据
+first historical transportation trips	第一历史运输行程
+first decomposition	第一分解
+first length	第一长度
+first calculation unit	第一计算单元
+first cell state data	第一电池状态数据
+first region	第一区域
+first locations	第一位置
+first starting time	第一起始时间
+first weight	第一权重
+first candidate path	第一候选路径
+first candidate paths.	第一候选路径
+first reset period	第一重置周期
+first probability score	第一概率分数
+first couch	第一治疗床
+first conformation	第一构象
+first deformation element	第一变形元素
+first anatomical structure	第一解剖结构
+first iterations	第一迭代
+first update unit	第一更新单元
+present disclosure	本申请
+second	第二
+second intensity	第二强度
+second intensity level	第二强度等级
+second device	第二设备
+second sensor	第二传感器
+second information exchange port	第二信息交换端口
+second lookup table	第二查找表
+second table	第二表格
+second value	第二数值
+second element	第二元素
+second indication	第二个指示
+second threshold	第二阈值
+second flag	第二标签
+second point	第二点
+second line	第二行
+second image slice	第二图像部分
+second distance	第二距离
+second set of imaging data	第二组图像数据
+second route	第二路线
+second target system	第二目标系统
+second direction	第二方向
+second vector	第二向量
+second sub-model	第二子模型
+second decomposition	第二分解
+second length	第二长度
+second region	第二区域
+second starting time	第二起始时间
+second weight	第二权重
+second positions	第二位置
+second clustering procedure	第二聚类算法
+second couch	第二治疗床
+second conformation	第二构象
+second deformation element	第二变形元素
+second iterations	第二迭代
+second update unit	第二更新单元
+mapping information	映射信息
+mapping service	地图服务
+mapping rules	映射规则
+information	数据
+information and/or data	信息和/或数据
+information for determining an alarm	报警判定信息
+applied to	应用于
+lookup table	查找表
+table	工作台
+step	步骤
+step value	步长值
+reference sensor	参考传感器
+reference value	参考值
+reference position	参考位置
+reference data table determination	参考数据表确定
+reference point	参考点
+reference frame	参考帧
+reference features	参考特征
+reference spatial basis function	参考空间基函数
+reference POI	参考POI
+reference conformation	参考构象
+reference edge	参考边缘
+reference basis function representation	参考基函数表示
+reference topogram image	参考定位像
+motion information	运动信息
+motion state of	运动状态
+motion data	运动数据
+motion trajectory	运动轨迹
+motion driver	运动驱动器
+MIDI levels	乐器数字接口等级
+or	或
+or the like	等
+or the like, or a combination thereof.	等，或其一种组合。
+or any combination thereof	或其任意组合
+,	，
+a musical score	乐谱
+a first value function	第一价值函数
+a first regression model	第一回归模型
+a first coordinate point with the maximum brightness	亮度最大的第一坐标点
+a first direction change value	第一改变数值
+a first binary image	第一二值图
+a first region marking module	第一区域标记模块
+a first initial start angle	第一初始起始角
+a first initial stop angle	第一初始停止角
+a first brightness threshold	第一亮度阈值
+a first color range determination unit	第一颜色范围确定单元
+a first angle range	第一角度范围
+a second value function	第二价值函数
+a second mode	第二模式
+a second binary image	第二二值图
+a second region marking module	第二区域标记模块
+a second clustering procedure	第二聚类算法输入
+a second clustering procedure	第二聚类过程
+a second color range determination unit	第二颜色范围确定单元
+a second color range determination unit	第二颜色范围确定模块
+a value of	的值
+a pedal	踏板
+a part of	部分
+a plurality of	多个
+a plurality of audio frames	多个音频帧
+a plurality of first positions	多个第一位置
+a lower limit	下限
+a lower density	低密度
+a lower density	更低密度
+a method of fill light treatment on a video image	一种视频图像的补光处理方法
+a method of histogram equalization may be generally performed on an image to adjust the display effect of the image.	一般采用对图像进行直方图均衡处理的方法来调整图像的显示效果
+a control signal	控制信号
+a time threshold	时间阈值
+a microcontroller	微控制器
+a spline interpolation	样条插值
+a hammer	琴锤
+a hammer,	琴锤
+a piezo-electric sensor	压电传感器
+a packet loss rate	分组数据丢失率
+a point	点
+a mechanical sensor	机械传感器
+a virtual reality	虚拟现实
+a linear classifier.	线性分类器
+a set of	一组
+a set of one or more optimization goals	至少一组优化目标
+a set of sample routes	一组样本路径
+a set of instructions	一组指令
+a departure location	出发地点
+a high definition	高清
+a target area of interest (AOI)	目标感兴趣区域（AOI）
+a target wide table	最终的宽表
+a global rate	全局速率
+a sub-field segment	子场段
+a trained identification model	训练的识别模型
+a trained identification model	训练后识别模型
+a predetermined range of red	预设红色范围
+a heat dissipation driver	散热驱动器
+a comparator	比较器
+a loudspeaker	扬声器
+a pitch	音高
+a damper pedal	减震器踏板
+a bushing	套管
+a taxi-hailing service	打车服务
+a marketing strategy	营销策略
+a prediction model	预测模型
+a candidate cluster of points	候选聚类点
+a candidate cluster of points	点的候选簇
+a dispersion filter, a threshold filter, and a false alarm filter	离散度过滤器，阈值过滤器，虚警过滤器
+a dispersion filter, a threshold filter, and a false alarm filter	离散度过滤器、阈值过滤器和虚警过滤器
+a crossover grid	交叉网格
+a carpool order	拼车订单
+a higher density	高密度
+a higher density	更高密度
+a range of the ratio	比例范围
+a ratio of A to B	比值
+a ratio relating to orders with prices dynamically adjusted during a detection period	动调发单比例
+a dose distribution	剂量分布
+a flat segment	平段
+a manager	管理者
+combination probability	组合概率
+minimum intensity level	最小强度等级
+minimum value BP	最小值反投影
+detecting element	检测元件
+detecting element 203a	检测元件203a
+light beam	光束
+light receiver	受光器
+light-detecting element	光检测元件
+light-emitting element	发光原件
+multiple intensity levels	多个强度等级
+multiple timescales	多时间尺度
+multiple links	多个链路
+third	第三
+third threshold	第三阈值
+third image slice	第三图像部分
+third image slices	第三图像部分
+third transportation service	第三运输服务
+third sub-model	第三子模型
+predefined value	预设值
+predefined order	预设顺序
+component of the musical system	所属音乐系统的部件
+controller	控制器
+controller 115	控制器115
+fourth	第四
+fourth position	第四位置
+fourth image slice	第四图像部分
+fourth image slices	第四图像部分
+position parameter	位置参数
+position-shifting transformation	平移变换
+maximum intensity level	最大强度等级
+maximum value	最大值
+maximum speed limit	最大速度限制
+maximum function value	最大函数值
+maximum iteration number	最大迭代次数
+reached the fifth position	到达第五位置
+fifth	第五
+TOP_UP	TOP_UP
+The exemplary embodiments of the present disclosure and the description are used to explain the present disclosure, and not intended to be limiting.	本发明的示意性实施例及其说明用于解释本发明，但并不作为对本发明的限定。
+The one or more processors may	所述一个或多个处理器可以
+The method	该方法
+The wired connection	有线连接
+The I/O component	I/O部件
+The radiation source	所述放射源
+The computer instructions may include, for example, routines, programs, objects, components, signals, data structures, procedures, modules, and functions, which perform particular functions described herein.	以实现与处理设备120的用户交互。
+The business line	业务线
+The income determining module	收入确定模块
+The cost determining module	成本确定模块
+The prior vehicle age	先前车龄
+exemplary process	示例性过程
+exemplary sensors	示例性传感器
+process	流程
+referred to	指的是
+referred to as	被称为
+instruction	指令
+one or more	一个或多个
+one or more	至少一个
+one or more	一个或以上
+one or more portions of	一个或以上部分
+one or more processors	一个或多个处理器
+key signal input	键信号输入
+key actuator	琴键激励器
+key or a pedal	琴键或踏板
+key data fields	关键数据域
+key phrase	关键短语
+key phrase spotting	关键短语识别
+plurality of	至少两个
+top layer	顶层
+top region	车顶区域
+threshold	阈值
+threshold determination unit	阈值确定单元
+threshold.	阈值
+upper limit	上限
+upper surface	上表面
+variations and modifications	变化与修改
+variations and modifications may	变化与修改
+may	可以
+may be used to	可以用于
+may include	可以包括
+It should be noted that	需要注意的是
+It should be noted that the	应当注意
+It is contemplated that	可以预期的是
+be connected to	连接到
+that is	即
+can be used to	可用于
+current signal	电流信号
+current time	现时
+current driving directions	当前行驶方向
+current frame	当前帧
+current status of traffic light	当前红绿灯状态
+current scenario	当前场景
+current scenario determination module	当前场景确定模块
+depression of	按压
+depression of the key	按压所述琴键
+electric signal	电信号
+electric sensor	电传感器
+electric power	电力
+interpolation	插值
+interpolation	内插
+interpolation method	内插法
+interpolation,	插值
+method	方法
+method for monitoring and reminding	监控提醒方法
+method for monitoring business volume	业务量监控方法
+state data determination unit	状态数据判断单元
+music data	音乐数据
+music notations	乐谱
+data processing	数据处理
+data analysis module 404	数据分析模块404
+data structure	数据结构
+data storage	数据存储
+data point	数据点
+data group	数据组
+data fields	数据域
+data store	数据存储
+data classification technology	数据分类技术
+data field	数据域
+data metric	数据度量
+data dimension	数据维度
+data transmission device	数据传输设备
+sound engine 230	声音引擎230
+sound volume	音量
+sound volume.	音量
+sound control signal	声音控制信号
+sound volumes	音量
+sound track	声迹
+adjacent to the	毗邻于
+adjacent path points	相邻路径点
+an audio player	音频播放器
+an intensity of ambient light	环境光强度
+an upper limit	上限
+an optical disk	光盘
+computing system	计算系统
+computing device	计算设备
+control signal	控制信号
+control grid modulation	控制栅极调制
+control parameter	控制参数
+control elements	控制元件
+persons having ordinary skills in the art,	本领域技术人员
+having	包括
+sixth position	第六位置
+transparent plate	透明板
+transparent housing	透明外罩
+plate modulation	板极调制
+depressing strength	按压力量
+metal string	金属弦
+middle intensity level	中等强度等级
+middle-large edge	中大边缘
+storage	存储器
+storage module	存储模块
+storage device	存储设备
+storage media	存储媒体
+storage media	存储介质
+storage unit	存储单元
+suitable data	适当的数据
+time of arrival	到达时间
+time interval	时间间隔
+time interval determination unit	时间间隔确定单元
+time order	时间顺序
+time point information	时间点信息
+time determination unit	时间确定单元
+time estimation module	时间预估模块
+time estimation unit	时间估计单元
+time sequence	时间序列
+interval determination unit	区间确定单元
+microcontroller	微控制器
+beam	束
+acquisition unit	获取单元
+acquisition environment	采集环境
+ascending order	升序
+order of magnitude	量级
+order a service	预定服务
+order feature extraction unit 411	订单特征提取单元411
+order allocation module	订单分配模块
+magneto-electric sensor	磁电传感器
+polynomial interpolation	多项式内插法
+default position	默认位置
+default data	默认数据
+default settings	默认设置
+default price	默认价格
+display	显示器
+display	显示
+display device	显示设备
+display engine 260	显示引擎260
+display unit	显示单元
+display mode	显示模式
+display categories	显示类别
+drive signal	驱动信号
+wired connection	有线连接
+wired connection	电线接头
+wireless connection	无线连接
+online to offline	线上到线下
+online to offline service	线上到线下服务
+online to offline services	线上到线下服务
+online hailing	网约车
+online hailing platform	网约车平台
+online on-demand service	在线按需服务
+online on-demand transportation services	在线按需运输服务
+online taxi hailing	在线预定出租车
+online taxi hailing services	在线打车服务
+online taxi-hailing	在线打车服务
+online-to-offline	线上线下
+online-to-offline	线上到线下
+hailing	呼叫
+platform	平台
+platform data	平台数据
+platform users	平台用户
+platform stage	平台阶段
+call center	呼叫中心
+center point	中心点
+center coordinates	中心坐标
+That is	也就是说
+In some embodiments,	在一些实施例中，
+In addition	另外
+dual-audio-track	双音轨
+single server	单服务器
+single modal imaging system	单模式成像系统
+single-audio-track	单音轨
+service	服务
+service order	服务订单
+service requestor	服务请求者
+service requestor terminal	服务请求者终端
+service provider	服务提供者
+service provider	服务提供方
+service management	服务管理
+service providing system	服务提供系统
+service vehicle	服务车辆
+service intention	服务意向
+service requesting system	服务请求系统
+service dispatch	服务调度
+service supplier	服务提供者
+request a service	请求服务
+request features	请求特征
+request queue	请求队列
+request queues	请求队列
+request matching unit	请求匹配单元
+request pending time	请求待决时间
+based on	根据
+on-demand	按需
+on-demand service	按需服务
+on-demand service system	按需服务系统
+on-demand transportation platform	按需运输平台
+on-demand transportation service	按需运输服务
+on-demand services	按需服务
+on-record accident time	现场记录事故时间
+neural network	神经网络
+neural network model	神经网络模型
+network	网路
+network access points	网络接入点
+network 120	网络120
+network congestion	网络拥塞
+model	模型
+model determination module	模型确定模块
+model determination unit	模型确定单元
+model training unit	模型训练单元
+model obtaining module	模型获取模块
+model obtaining unit	模型获取单元
+For persons having ordinary skills in the art, multiple variations and modifications may be made under the teachings of the present disclosure.	对于本领域的普通技术人员来说，可以根据本申请的描述，做出各种各样的修正和改变。
+For illustration purpose	为了说明
+example	示例
+METHOD, APPARATUS AND SYSTEM FOR SPEAKER VERIFICATION	基VERIFICATION VERIFICATION VERIFICATION VERIFICATION
+interface circuits	接口电路
+client terminal	客户终端
+terminal	终端
+terminal device	终端设备
+unique token	唯一标识
+unique identifier	识别码
+packet loss rate	分组数据丢失率
+packet loss rate	丢包率
+communication module	通信模块
+communication platform	通信平台
+communication units	通信单位
+point-identification	点识别
+point-identification operation	点识别操作
+transcribing unit	转换单元
+Thus	因此
+identifying	识别
+identifying unit	识别单元
+Automatic speech recognition	自动语音识别
+texts	文本
+identity	身份
+customer	顾客
+customer service	客服
+thread	线程
+memory	内存
+memory thin film	记忆薄膜
+memory 360	内存360
+subset	子集
+subscribers	订户
+subscriber	订户
+distribution interface	分发接口
+distribution unit	分配单元
+segment	段
+segment image	分块图像
+segment count	段数
+Graphic User Interface	图形用户界面
+refresh button	刷新按钮
+input device	输入设备
+input layer	输入层
+input sequence	输入序列
+input gate	输入门
+input units	输入单元
+input/output device	输入/输出设备
+input/output current	输入/输出电流
+input/output voltage	输入/输出电压
+output device	输出设备
+output power	输出功率
+output sequence	输出序列
+output gate	输出门
+output port	输出端口
+output units	输出单元
+voltage signal	电压信号
+characteristic curve	特征曲线
+characteristic curve segment	特征曲线段
+characteristic curve determination unit	特征曲线确定单元
+characteristic curve division unit	特征曲线划分单元
+characteristic information	特征信息
+characteristic values	特征值
+characteristic power	特征功率
+characteristic parameters	特征参数
+treated sample	处理样品
+sample data	样本数据
+sample point	采样点
+sample image	样本图像
+sample image set	样本图像集
+sample image group	样本图像组
+sample phoneme	样本音素
+sample points	采样点
+sample balancing	样本平衡
+sample balancing technique	样本平衡技术
+sample 3D images	样本3D图像
+sample topogram images	样本定位像
+sample CT images	样本CT图像
+mechanical sensor	机械传感器
+mechanical property	机械性能
+tensile strength	抗张强度
+fatigue strength	疲劳强度
+hardness	硬度
+parameters	参数
+random access memory	随机访问存储器
+random access memory	随机存取存储器
+random strategy	随机策略
+access to	访问
+access and authorization	访问与授权
+access points	存取点
+read-only memory	只读存储器
+dekatron	十进计数管
+bubble memory	磁泡存储器
+magnetic plate line memory	磁板线存储器
+magnetic button line memory	磁按钮线存储器
+magnetic drum memory	磁鼓存储器
+core memory	cixincunchuq
+CD-ROM	只读光盘存储器
+CD-ROM drive	光盘驱动器
+hard disk	硬盘
+flash disk	闪存盘
+flash memory	闪速存储器
+U flash disk	U盘
+virtual network	虚拟网
+virtual private network	虚拟专用网络
+virtual reality device	虚拟现实装置
+virtual reality device	虚拟现实设备
+private network	私有网
+private cloud	私有云
+cloud computing platforms	云计算平台
+cloud storage	云存储
+cloud platform	云平台
+local area network	局部区域网
+local area network	局部区域网络
+local tagging rules	本地标记规则
+LAN	局域网
+wide area network	广域网
+public network	公共网
+public cloud	公共云
+public switched telephone network	公共交换电话网
+public telephone switched network	公共交换电话网络
+proprietary network	专用网
+telephone network	电话网
+Internet	互联网
+metropolitan area network	城域网
+Near Field Communication	近场通讯
+hybrid model	混合模型
+hybrid cloud	混合云
+amplitude modulation device	振幅调制器
+amplitude modulation circuit	调幅电路
+alternating current	交流电流
+direct current	直流电流
+direct distance	直接距离
+sinusoidal signal	正弦信号
+pulse signal	脉冲信号
+pulse duration modulation	脉冲宽度调制
+pulse width modulation	脉宽调制
+pulse code modulation	脉码调制
+FM serial resonance device	FM串联谐振装置
+hydraulic device	液压设备
+air cylinder	气缸
+extra pressure	附加压力
+thermal sensor	热传感器
+thermal parameter	热参数
+thermocouple	热电偶
+thermocouple probe	热电偶探头
+piezoresistive sensor	压阻式传感器
+speed sensor	速度传感器
+speed data	速度数据
+placement sensor	位移传感器
+temperature curve	温度曲线
+temperature sensor	温度传感器
+temperature and humidity sensor	温湿度传感器
+temperature elevating rate	升温速率
+temperature elevating stage	升温阶段
+temperature cooling rate	降温速率
+temperature internal or external vehicle	车辆内部或外部温度
+emitter amplitude modulation	发射极调幅电路
+collector amplitude modulation	集电极调幅电路
+mitter amplitude modulation, a collector amplitude modulation, a	基极调幅电路
+image	图像
+image processing system	图像处理系统
+image processing device	图像处理设备
+image data acquisition module	图像数据获取模块
+image volume	体图像
+image correction module	图像校正模块
+image segmentation algorithm	图像分割算法
+function value	函数值
+destination	目的地
+discriminative model	判别模型
+generative parameters	生成参数
+driving track information	行驶轨迹信息
+driving speed	行驶速度
+driving distance	行驶距离
+driving behavior	驾驶行为
+distance feature data	距离特征数据
+distance indicator	距离指标
+linear regression model	线性回归模型
+linear acceleration	线性加速
+linear classifier	线性分类器
+linear projection	线性投影
+linear indivisible data	线性不可分的数据
+linear segmentation	线性分割
+regression	回归
+regression mapping relationship	回归映射关系
+regression layer	回归层
+frame	帧
+auxiliary tasks	辅助任务
+auxiliary equipments and/or modules	辅助设备和/或模块
+requestor	请求者
+requestor terminal	请求者终端
+provider	提供方
+provider terminal	提供方终端
+provider terminal	提供者终端
+provider feature extraction unit 413	提供者特征提取单元413
+orders	订单
+feature	特征
+feature information	特征信息
+feature data	特征数据
+feature data corresponding to a link	对应于每一链路的特征数据
+feature point	特征点
+feature image	特征图像
+feature extraction	特征提取
+feature extraction module	特征提取模块
+feature extraction model	特征提取模型
+feature extraction unit	特征提取单元
+feature vector	特征向量
+feature vectors	特征向量
+feature region	特征区域
+feature selection algorithm	特征选择算法
+feature-identification model	特征识别模型
+preliminary	初步
+preliminary neural network model	初步神经网络模型
+preliminary model obtaining module	初始模型获取模块
+preliminary parameters	初始参数
+preliminary image	初始图像
+preliminary identification model	初步识别模型
+preliminary identification mode	初步识别模型
+preliminary POI determination module	初始POI确定模块
+preliminary 3D contour	初始3D轮廓
+start location	起点
+start location	起始位置
+location coordinate	位置坐标
+location obtaining module	位置获取模块
+location-orientation information	位姿信息
+coordinate system	坐标系
+coordinate information	坐标信息
+database query service	数据库查询服务
+set of parameters	一组参数
+set of training data	训练数据集
+set of instructions	组指令
+set of instructions	一组指令
+set point	设定点
+transportation service order	运输服务订单
+transportation service request	运输服务请求
+transportation service management server	运输服务管理服务器
+transportation service requests	运输服务请求
+transportation request	运输请求
+transportation services	运输服务
+transportation capacity	运输能力
+transportation trip	运输行程
+recommended route	推荐路径
+route determination module	路线确定模块
+route obtaining module	路线获取模块
+route generation unit	路线生成单元
+route planning algorithm	路径规划算法
+convolutional neural network	卷积神经网络
+convolutional network model	卷积神经模型
+convolutional feature map	卷积特征图
+convolutional layer	卷积层
+convolutional layer	卷基层
+layer of image	图像层
+positioning	定位
+positioning system	定位系统
+positioning module	定位模块
+positioning device	定位设备
+positioning technology	定位技术
+positioning post	定位孔
+departure time	出发时间
+departure location	出发地
+departure location	出发地点
+phoneme duration	音素时长
+comprises	包括
+machine learning model	机器学习模型
+machine learning algorithm	图4C
+learning vector quantization (LVQ)	学习向量量化（LVQ）
+learning algorithm	学习算法
+learning-based tagging	基于学习的标记
+high frequency sub-image	高频子图像
+high pass	高通
+high-dimensional sparse feature	高维稀疏特征
+high-occupancy vehicle	高承载率车辆
+sparse feature	稀疏特征
+determination module	确定模块
+determination model	确定模型
+determination unit	计算单元
+user device	用户设备
+user data relating to the target route	与目标路径有关的用户数据
+user terminal	用户端
+user terminal device	用户终端设备
+user management	用户管理
+user tagging	用户标记
+user mobile device	用户移动设备
+user feedbacks	用户反馈
+relating to each link of the historical route	与所述历史路线的每一链路关联的
+target data	目标数据
+target order features	目标订单特征
+target wide table	目标宽表
+target image	目标图像
+target function	目标函数
+target provider features	目标提供者特征
+target database determination module	目标数据库确定模块
+target route obtaining unit	目标路线获取单元
+target determination unit	目标确定单元
+target user terminal	目标用户终端
+target cluster of points	点的目标簇
+target address query	目标地址查询
+target requester features	目标请求者特征
+target region	目标区域
+target path	目标路径
+target perturbation	目标摄动
+target perturbation vector	目标摄动向量
+target POI	目标POI
+target POI	目标感兴趣点
+target POIs	目标POI
+target object	目标物体
+target incident	目标事件
+target coordinates	目标坐标
+target size	目标尺寸
+target face image	目标人脸图像
+target brightness direction	目标亮度方向
+via	通过
+via the network	经由网络
+via the network	通过所述网路
+categorical feature	分类特征
+leaf node	叶子节点
+leaf node encoding	叶节点编码
+node sequence	节点序列
+direction module	方向模块
+driver	司机
+driver	驾驶员
+driver terminal	司机端
+driver terminal	司机终端
+driver terminal	驾驶员终端
+driver hiring	驾驶员雇用
+ETA	预估到达时间
+ETA determination unit	ETA确定单元
+ETA models	ETA模型
+global data	全局数据
+global feature vector	全局特征向量
+global tagging rule	全局标记规则
+artificial neuron	人工神经元
+artificial intelligent	人工智能
+artificial intelligent system	人工智能系统
+artificial intelligence	人工智能
+structured light technology	结构化光技术
+structured data	结构数据
+another aspect	另一方面
+accuracy threshold	准确性阈值
+accuracy threshold	精度阈值
+accuracy score	准确度分数
+hidden state data	隐藏状态数据
+hidden layer	隐藏层
+hidden Markov model	隐藏马可夫模型
+spatial distribution	空间分布
+spatial feature	空间特征
+spatial basis function	空间基函数
+spatial basis function representations	空间基函数表示
+spatial pyramid	空间金字塔
+temporal feature	时间特征
+include	包括
+at a specific intersection	在特定的路口处
+at least a portion of	至少一部分
+at least one	至少一个
+at least one set of	至少一组
+at least one set of instructions	至少一组指令
+sub-model	子模型
+sub-area	子区域
+sub-hybrid model	子混合模型
+sub-node	子节点
+sub-region	子区域
+sub-areas	子区域
+sub-areas.	子区域
+sub-units	子单元
+users	用户
+historical information acquisition unit	历史信息获取单元
+historical data acquisition unit	历史数据获取单元
+historical time of arrival	历史到达时间
+historical order	历史订单
+historical order amount feature	历史订单量特征
+historical characteristic data	历史特征数据
+historical orders	历史订单
+historical orders.	历史订单
+historical frames	历史帧
+historical routes	历史路径
+historical route obtaining unit	历史路线获取单元
+historical positioning records	历史定位记录
+historical action	历史动作
+historical charateristic data	历史特征数据
+historical vectors	历史向量
+historical marketing strategies	历史营销策略
+historical marketing strategies.	历史营销策略
+historical transaction data	历史交易数据
+historical requests	历史请求
+historical reward	历史收益
+historical coordinates	历史坐标
+historical indicator	历史指标
+non-linear function	非线性函数
+non-quantifiable feature	不可量化特征
+non-transitory	非暂时性
+non-transitory	非暂态
+non-transitory computer readable medium	非暂时性计算机可读介质
+non-car-pooling type	非共乘类型
+less than	小于
+traffic information	交通信息
+traffic light	交通信号灯
+traffic light timing	交通信号灯配时
+traffic light status acquisition module	红绿灯状态获取模块
+traffic data	交通数据
+traffic parameters	交通参数
+traffic lights	交通信号灯
+traffic condition	交通状况
+traffic density	交通密度
+traffic restriction	交通管制
+traffic accident location	交通事故地点
+traffic status	交通状态
+traffic flows	交通流量
+traffic indicator	交通指标
+traffic-regulated section	交通管制路段
+condition of jam	拥堵情况
+Merely by way of example	仅作为示例
+Merely by way of example	仅作为范例
+acoustic features	声学特征
+acoustic sounds	声学声
+duration of sound	声音持续的时长
+identified phoneme	所识别音素
+fundamental frequency,	基频
+fundamental frequencies	基频
+frequency of the pressure variation	压力变化的频率
+real human speeches	真人语音
+real-time condition	实时状态
+human-machine interactions	人机交互
+Accordingly,	因此
+linguistic features	语言特征
+extracted from	从…中提取
+identification	标识
+identification information	标识信息
+identification data	标识数据
+identification model	识别模型
+identification result	识别结果
+result cluster	结果簇
+language model	语音模型
+language identification result	语言识别结果
+multi modal imaging system	多模式成像系统
+multi-level structure	多层结构
+multi-layer perceptron	多层感知器
+multi-task	多任务
+multi-task learning	多任务学习
+multi-modality system	多模态系统
+task	任务
+task information	任务信息
+task scheduling and device management	任务调度和设备管理
+task groups	任务组
+task clustering unit	任务聚类单元
+capable of	能够
+group tagging	组标记
+tagging rules	标记规则
+trained model	训练后的模型
+trained identification model	训练后识别模型
+trained group tagging rule model	训练后的组标记规则模型
+rule model	规则模型
+rule library	规则库
+positive sample	正样本
+positive image	正图像
+positive examples	正实例
+positive examples,	正实例
+associated data	相关数据
+associated data fields	相关数据域
+associated with	相关联
+associated with the radiation treatment plan	与所述放射治疗计划相关联的
+transcribed texts	实录文本
+test	测试
+test script	测试脚本
+test account	测试账号
+script address	脚本地址
+registered driver	已注册司机
+speaker models	说话者模型
+speaker verifier	说话者验证器
+speaker verification system	说话者验证系统
+cab service management	叫车服务管理
+predetermined value	预定值
+predetermined value	预设值
+predetermined threshold	预定阈值
+predetermined threshold	预设阈值
+predetermined point	预设点
+predetermined distance	预设距离
+predetermined distance	预定距离
+predetermined rule	预定规则
+predetermined section of geographical area	预定地理区域
+predetermined region	预设区域
+predetermined range	预设范围
+passenger position	乘客位置
+passenger terminal	乘客端
+passenger terminal	乘客终端
+similarity score	相似性分数
+estimation model	估算模型
+training	训练
+training module	训练模块
+training process	培训过程
+training data	训练数据
+training unit	训练单元
+training sample determination module	训练样本确定模块
+training feature data	训练特征数据
+training set	训练集
+training routes	训练路线
+training group	训练组
+training samples	训练样本
+recurrent neural network model	递归神经网络模型
+travel time	行驶时间
+travel model	出行方式
+travel mode	行驶模式
+;	；
+wherein	其特征在于，
+obtaining	获取
+obtaining module	获取模块
+obtaining module 410,	获取模块410
+obtaining unit	获取单元
+This disclosure	本申请
+provide	提供
+provide a service	供服务
+measurement	测量参数
+section	单元
+cluster	聚类
+cluster	簇
+cluster of points	点簇
+clamp tube modulation	钳位管调制
+out phasing modulation	反相调制
+heising modulation	海辛调制
+heisting modulation	海辛调制
+grid	网格
+grid indices	网格指数
+grid-division	网格划分
+vacuum module	真空模块
+vacuum device	真空装置
+oxygen level	氧含量
+comprise	包括
+substrate	基板
+side walls	侧壁
+side stresses	侧向压力
+side stress	侧向压力
+side length	边长
+grooves	凹槽
+stress	压力
+perpendicular to	垂直于
+bulk form	块体形式
+supplementary heating module	补充加热模块
+supplementary POIs	补充POIs
+sintering room	烧结室
+ultrasonic identifier	超声波识别器
+ultrasonic indenter	超声波压头
+ultrasonic measurements	超声波测量
+identifier	识别器
+Additionally	此外
+Additionally or alternatively	此外或可选择地
+Additionally or alternatively	附加地或可选地
+density	密度
+density	稠密度
+density threshold	密度阈值
+particle	颗粒
+particle filter algorithm	粒子滤波算法
+particle rays	粒子射线
+mass	质量
+mass storage	大容量存储器
+flowing temperature	流动温度
+decomposition temperature	分解温度
+nanoscale grains	纳米晶粒
+TiNbCuNiAl	钛铌铜镍铝
+imaging system	成像系统
+imaging device	成像设备
+imaging acquisition device	图像采集设备
+imaging protocols	成像协议
+coating	涂层
+expected parameters	预期参数
+heat dissipation device	散热设备
+heat dissipation driver	散热驱动器
+dissipation rate	消散波速率
+dissipation rate	耗散率
+solenoid actuator	螺线管传动器
+working condition	工作条件
+physical module	物理模块
+compression data	压缩数据
+server	服务器
+server 110	服务器110
+damper module	减震器模块
+damper pedal	制音踏板
+damper board	减震器板
+damper assembly	减震器组件
+I/O interface	输入/输出接口
+smart piano	智能钢琴
+smart home device	智能家居装置
+smart bracelet	智能手环
+piano engine 112	钢琴引擎112
+execution device	执行设备
+execution engine	执行引擎
+execution unit	执行单元
+preset value	预设值
+preset algorithm	预设算法
+configured to	被配置为
+configured to	用于
+parameter determination unit	参数确定单元
+detection module	检测模块
+detection unit	监控单元
+detection unit	检测单元
+detection period	检测时间
+hardware platform	硬件工作台
+hardware processor	硬件处理器
+auto-play engine	自动播放引擎
+protection signal.	保护信号
+protection circuit	保护电路
+performance information	表现信息
+performance video	表现视频
+video frames	视频帧
+video monitoring	视频监控
+radiation	放射
+radiation source	放射源
+radiation segments	放射段
+radiation segment	放射段
+radiation detector	辐射性探测器
+radiation treatment plan	放射治疗计划
+radiation delivery	放射传输
+radiation dose	辐射剂量
+radiation dose modulation	辐射剂量调制
+detector	检测器
+tone generator	音频发生器
+linkage structure	联动结构
+elastic structure	弹性结构
+elastic strips	弹性长条
+elastic sleeve 503	弹性套503
+elastic extension	弹性延伸
+muting unit	静音单元
+peripheral device	外围设备
+silent mode	静音模式
+restoring force	恢复力
+headset	耳机
+headset mode	耳机模式
+action mechanism	作用机制
+mechanism determining module	机制确定模块
+generation unit 610	产生单元610
+those skilled in the art	本领域普通技术人员
+normal mode	正常模式
+compressed length	压缩长度
+equilibrium length	均衡长度
+equilibrium length	平衡长度
+calculation unit 410	计算单元410
+computer	计算机
+computer program instructions	计算机程序指令
+computer program product	计算机程序产品
+computer readable medium	计算机可读介质
+computer-readable	计算机可读
+computer-readable storage medium	计算机可读存储介质
+computer-readable medium	计算机可读介质
+program instructions	程序指令
+program code	程序代码
+medium	介质
+electronic device	电子设备
+electronic sound	电子声
+electronic signals	电子信号
+electronic equipment	电子设备
+minimal value	最小值
+resting position.	静止位置
+content identification	内容识别
+content items	内容项
+phasic display	相位展示
+presenting mode	呈现方式
+tutorial mode	教学模式
+deep learning model	深度学习模型
+resolution format	分辨率格式
+automatic playing	自动演奏
+automatic playing system	自动播放系统
+automatic playing device	自动播放设备
+automatic playing apparatus	自动播放装置
+playing system	播放系统
+playing device	播放设备
+playing apparatus	播放装置
+manual playing	手动播放
+semi-automatic playing mode	半自动播放模式
+supporter 420	支架420
+sostenuto pedal 114	延音踏板114
+triangle bracket	支架
+store	储存
+silencer	消声器
+variable-controlling method	控制变量法
+treatment temperature	处理温度
+cooling stage	冷却阶段T3.
+flow state	流态
+glass transition	玻璃化转变
+fluctuating	波动
+mainly distributed in	主要分布在
+indentation technique	压痕法
+relative to	相对于
+such as	如
+such as	例如
+wireline	光纤
+Bluetooth	蓝牙
+connected region	连通区域
+footgear	鞋袜
+smartphone	智能手机
+double date	双倍数据
+digital signal processor	数字信号处理器
+digital route planning	数字路线规划
+planning image	计划图像
+planning image	规划图像
+optimal route	最优路线
+optimal route planning	最优路线规划
+relates to	涉及
+techniques	技术
+FIGURE	图
+illustrates	示出了
+environment	环境
+Euclidean distance method	欧氏距离法
+negative example	负实例
+negative sample	负样本
+negative image	负图像
+negative samples.	负样本
+k nearest neighbor	K最近邻域
+k-nearest neighbor	K最近邻域
+k-nearest neighbor method	K最近邻域法
+classification	分类
+classification layer	分类层
+majority vote	多数表决
+synthesize	合成
+decision tree model	决策树模型
+logic algorithms	逻辑算法
+logic circuits	逻辑电路
+special offer	特别优惠
+special-purpose	专用
+accessible to	可访问
+facilitate the providing of the service	促进所述服务提供
+obtain	获取
+:	：
+dimension	维度
+dimension and ratio unit	维度比例单元
+dimension determination unit	维度确定单元
+dimension number	维数
+navigation system	导航系统
+navigation length	导航距离
+navigation length.	导航距离
+navigation services	导航服务
+navigation devices onboard vehicle	车载导航设备
+entity	实体
+mobile device	移动装置
+mobile device	遥控设备
+mobile device	移动设备
+mobile phone	移动电话
+mobile operating system	移动操作系统
+cell state value	电池状态值
+cell state data	电池状态数据
+directed to	涉及
+directed graph	有向图
+perceptron neural network model	感知器神经网络模型
+MLP	多层感知器
+tabular data	表格数据
+ending time	结束时间
+ending times	结束时间
+further	还
+determine	确定
+determine a statistical result of	统计…的统计结果
+determine a weighted grayscale histogram of the image at each grayscales, respectively.	对图像分别进行各个灰度级的加权灰度级直方图统计
+map	地图
+map navigation service	地图导航服务
+delivery	传输
+delivery services	送货服务
+vehicle	车辆
+vehicle information	车辆信息
+vehicle position	车辆位置
+vehicle color identification method	车辆颜色识别方法
+vehicle ROI	车辆ROI区域
+vehicle makers	车辆制造商
+actual time of arrival	实际到达时间
+actual values	真实值
+universal model	通用模型
+universal serial bus	通用串行总线
+bus	巴士
+preferred driving speed	偏好的驾驶速度
+continuous feature	连续特征
+binary image	二值图
+binary vector	二进制向量
+binary classification tree model	二元分类树模型
+operate	运行
+logical circuits	逻辑电路
+comprising	包括
+estimating time of arrival	ETA
+determining	确定
+determining module	确定模块
+Uniform Resource Locator	统一资源定位符
+Deep Neural Network model	深度神经网络模型
+timing data	时间数据
+Monkey test	搞怪测试
+inlcude	包括
+analyst	分析师
+selecting	选择
+selecting module	选取模块
+estimated time	预估时间
+estimated route	估计路线
+estimated long-term value	预估长期价值
+estimated trip time	估计行程时间
+estimated noise value	噪声估计值
+estimated conversion rate of transaction	交易预估转换率
+estimated basic fee	预估基本费用
+estimated adjusting rate	预估调整率
+estimated adjusting rate of fee	预估调整费率
+estimated wait time	估计等待时间
+estimated walking time	估计步行时间
+error	误差
+error calculation module	误差计算模块
+e.g.,	例如
+requester terminal	请求者终端
+requester terminal 130	请求者终端130
+requester identity	请求者身份
+requester feature extraction unit 412	请求者特征提取单元412
+(	（
+)	）
+tablet computer	平板电脑
+tablet computers	平板电脑
+built-in device	内置装置
+wearable device	可穿戴装置
+wearable device	穿戴设备
+wearable devices	可穿戴设备
+augmented reality device	增强现实装置
+geographic region	地理区域
+geographic region determination unit	地理区域确定单元
+geographic attribute	地理属性
+region	区域
+region of interest	感兴趣区域
+region feature map	区域特征图
+region obtaining module	区域获取模块
+region proposal	候选区域
+region proposal selection module	候选区域选取模块
+motor vehicle	机动装置
+intermediate unit	中间单元
+intermediate layer	中间层
+intermediate locations	中间位置
+intermediate tables	中间表
+certain district	确定区域
+block	框
+geographical length	地理距离
+comparing unit	比较单元
+correction level	校正等级
+correction unit	校正单元
+starting point	初始点
+link	链接
+intersections	交叉路口
+each of the plurality of routes	述多条路线中的每条路线
+each of the plurality of historical routes	每一所述多个历史路线
+each link	每一链路
+each link of the historical route	所述历史路线的每一链路
+each pair of adjacent positions	每对相邻位置
+long short term memory (LSTM)	长短期记忆（LSTM）
+long-term value	长期价值
+long-exposure frame image	长曝光帧图像
+short-exposure frame image	短曝光帧图像
+LSTM	长短期记忆
+Hopfield network model	霍普菲尔网路模型
+self-organizing map (SOM)	自组织映像（SOM）
+bi-direction	双向
+fully recurrent network model	全循环网络模型
+fully connected layer	全连接层
+echo state network model	回声状态网络模型
+forget gate	遗忘门
+Equations	方程
+weight image determination unit	权值图确定单元
+weight matrixes	权重矩阵
+bias parameters	偏差参数
+More particularly	更具体地说
+for example	例如
+for radiation delivery by a therapeutic radiation delivery apparatus	由治疗放射传输装置用于放射传输
+have	拥有
+particular time period	一定时间周期
+particular building	特定的建筑物
+monitoring device	监控装置
+initial table set	初始表集
+initial threshold	初始阈值
+initial model	初始模型
+initial parameters	初始参数
+initial image	初始图像
+initial hidden state data	初始隐藏状态数据
+initial cell state data	初始电池状态数据
+initial gray level range	初始灰度区间
+initial impact factors	初始影响因子
+final output	最后输出
+also referred to herein as	本文中也称为
+feed	反馈
+feed streams	馈送流
+testing routes	测试路线
+receiving and rendering information	接收和呈现信息
+designate	标示
+A person skilled in the art	本领域技术人员
+A refined accident location	精确事故地点
+column	列
+square	正方形
+square root differences	平方根差
+congregated data point	聚集数据点
+orientation parameters	姿态参数
+road segment	路段
+road monitoring	公路监控
+road-surroundings information	车辆周围道路环境信息
+Light Detection and Ranging	激光雷达
+transformation curve segment	变换曲线段
+transformation curve segment determination unit	变换曲线段确定单元
+transformation curve generating unit	变换曲线生成单元
+transformation relationship	转移关系
+rotation element	旋转元件
+rotation transformation	旋转变换
+rotation angles	旋转角度
+rotation angles,	旋转角度
+optimization equation	优化方程
+optimization criteria	优化标准
+optimization goals	优化目标
+weighting coefficient	权重系数
+coefficient determination unit	参数确定单元
+Simultaneous Localization and Mapping	即时定位与地图构建
+perturbation vector	扰动向量
+buffer scope data	缓冲范围数据
+priority order	优先级顺序
+priority request	优先请求
+priority queue	优先队列
+queue determination unit	队列确定单元
+queue length	队列长度
+queue index value	队列索引值
+trace	轨迹
+ordered data groups	有序数据组
+traversed data group	遍历数据组
+sampling rate	取样率
+sampling points	采样点
+angular velocities	角速度
+angular velocity	角速度
+programming languages	编程语言
+energy sources	能源
+remote terminal devices	远程终端设备
+remote computer	远程计算机
+space diagram	位置图
+horizontal axis	横轴
+GPS device	GPS设备
+per second	每秒
+personal	个人
+workstation	工作站
+Alternatively or additionally	可选地或附加地
+upstream intersection	上游路口
+intersection	路口
+intersection	交点
+intersection	交叉点
+downstream intersection	下游路口
+idle period	空闲时段
+hexagon	六角形
+index value	索引值
+index feature	索引特征
+index feature vector	索引特征向量
+cash coupon	现金优惠券
+compass	指南针
+filter noise	滤除噪声
+perturbed training set	摄动训练集
+marketing strategy	营销策略
+reinforcement learning algorithm	强化学习算法
+Q-learning algorithm	Q 学习算法
+Q-learning algorithm	Q学习算法
+eye-blinking	眨眼
+yawning detection model	打哈欠模型
+yawning detection model	打哈欠检测模型
+drowsiness detection	眨眼检测
+drowsiness detection	困倦检测
+prediction model	预测模型
+parking location	停车位置
+accident location	事故地点
+accident location.	事故地点
+accident record	事故记录
+accident-prone road section	事故多发地段
+accident-prone road sections	易发生事故路段
+accident-prone road sections	事故多发地段
+accident-prone road sections	事故多发路段
+candidate	候选
+candidate destination points	候选目的地点
+candidate result cluster	候选结果簇
+candidate result cluster	候选结果集群
+candidate cluster of points	候选点簇
+candidate locations	候选位置
+candidate points of interest	候选兴趣点
+candidate destinations	候选目的地
+candidate phrase	候选短语
+candidate words	候选词
+candidate factors	候选因子
+predicted values	预测值
+predicted DOM profiles	预测DOM曲线
+predicted entries	预测条目
+residual value	残值
+residual function	残差数据
+residual function	剩余函数
+residual error	残差
+residual reduction	残值减少
+residual reduction value	剩余减少值
+residual reduction value	残值减少值
+trend function	趋势函数
+seasonal function	季节性函数
+seasonal function	季节性函数 
+alarm network	报警网络
+alarm unit	警示单元
+alarm event sending mechanism	报警事件发送机制
+classifier	分类器
+correlation threshold	相关性阈值
+correlation coefficient	相关系数
+correlation probabilities	相关性概率
+recall rate	召回速率
+recall rate	召回率
+precision rate	准确率
+precision-recall relationship	核心召回关系
+precision-recall relationship	精确召回关系
+precision-recall relationship	准确召回关系
+object	物体
+object	待扫描对象
+object detection	物体检测
+pre-processing module	预处理模块
+pre-determined speed threshold	预定速度阈值
+pre-set stepping threshold	设定步进阈值
+pre-treatment imaging	预处理成像
+pre-update plugin	更新前的插件
+boundary	边界处
+boundary point	边界点
+crossover grid	交叉网格
+sections	部分
+devices and methods for recognizing behavior	识别行为的设备和方法
+activation threshold	激活阈值
+activation threshold	触发阈值（激活阈值？）
+activation unit	激活单元
+activation number	激活数量
+activation number	触发值（激活号码？）
+dense feature	密集特征
+sparsity threshold	稀疏阈值
+DROWSINESS DETECTION	疲劳驾驶检测
+carpool service	拼车服务
+carpool service request	拼车服务请求
+carpool request	拼车请求
+carpool transportation service	共乘服务
+business volume	业务量
+deactivation threshold	去激活阈值
+deactivated request queue	去激活的请求队列
+active request queue	活动请求队列
+car hailing	打车
+car hailing application	打车程序
+car-hailing service	打车服务
+car-pooling type	共乘类型
+pooling processing	池化处理
+pooling matrix	池化矩阵
+Online-to-offline services	在线到离线服务，例如在线出租车服务在人们的日常生活中越来越受欢迎。
+split data	分裂
+split positions	拆分位置
+One aspect	一方面
+income value	收入值
+cost value	成本值
+cost function	代价函数
+risk coefficient	风险系数
+refined accident location	精确事故地点
+refined accident locations	精确事故地点
+histoircal locations	历史位置
+incident degree	事件程度
+incident prediction module	事件预测模块
+incident prediction unit 415	事件预测单元415
+incident type	事件类型
+balanced samples	平衡样本
+synthetic samples	合成样本
+imbalanced sample composition	不平衡样本组成
+internal storage	内部存储器
+importance sampling method	重要性采样方法
+statistical information	统计信息
+statistical weight in the histogram	直方图统计权重
+emographic attribute	人口属性
+demographic attribute	人口属性
+transimitting port	传输端口
+clustering model	聚类模型
+operation	操作
+operation information	操作信息
+operation income	运营收入
+operation cost	运营成本
+receive	接收
+reconstruction	重建
+average coordinates	平均坐标
+average brightness	亮度均值
+average passing rate	平均通过率
+stop angle	停止角度
+inforamtion exchange port	信息交换端口
+servcie providing system	服务提供系统
+implement	实施
+low frequency sub-image	低频子图像
+low pass	低通
+cross-validation	交叉验证
+1/2 down-sampling layer	1/2降采样层
+down-sampling layer	下采样层
+adaptive down-sampling layer	自适应下采样层
+category feature map	类别特征图
+category parameter	类别参数
+conter point	中心点
+division module	划分模块
+division way	划分方式
+judgment and adjustment module	判断调整模块
+outline dimension parameter	外形尺寸参数
+probability parameter	概率参数
+rectangular box	矩形框
+subsample image	子样本图像
+guide groove	导向槽
+tension roller	张紧辊
+eccentric pulley	偏心轮
+sagittal view	矢状视图
+couch sag compensation	治疗床下陷补偿
+couch)	治疗床
+displacement component	位移分量;
+displacement determination module	位移确定模块
+displacement vector	位移矢量
+displacement field	位移场
+displacement components	位移分量
+subject	对象
+corrected first position	校正第一位置
+corrected first point	校正第一点
+axial view	轴向视图
+3D image	3D图像
+3D image slice	3D视图部分
+3D contour	3D轮廓
+3D contour determination unit	3D轮廓确定单元
+3D depth camera	3D深度相机
+slice	切片
+slice	部分
+2D image slice	2D视图部分
+2D low-pass filtering	二维低通滤波
+LBP processing module	LBP处理模块
+LBP operator	LBP算子
+SVM processing module	SVM处理模块
+bang features	刘海特征
+bang region	刘海区域
+bang region determining module	刘海区域确定模块
+face recognition	人脸识别
+face alignment	人脸对齐
+facial features	人脸特征
+grayscale value	灰度值
+illumination	光照
+illumination normalization	光照归一化
+First light transmission strip	发射导光条
+Optical coupler circuit board	光耦电路板
+Protective device	设备护罩
+Second light transmission strip	接收导光条
+Support	光耦电路板支架
+bayonet	卡口
+conductive connector	导电接头
+constant light intensity	恒定强度
+electrical conductive ring	导电挡光圈
+fixing device	固定装置
+hook	卡勾
+illuminator	发光器
+lens	镜头
+blurred image	图像花屏
+empirical coefficient	经验系数
+encode	编码
+latency time	等待时间
+border	扩边
+chrominance	色度
+chrominance information	色度信息
+clipping	限幅
+compiling enhancement coefficient	编译增强系数
+enhancement adjustment coefficient	增强调节系数
+dead pixel	坏点
+pixel	像素点
+pixel matrix	像素矩阵
+increasing function	增函数
+luminance	亮度
+mean filter	均值滤波器
+edge detection	边缘检测
+piecewise function	分段函数
+small-middle edge	中小边缘
+strong edge	强边缘
+suppression coefficient	抑制系数
+sending module	发送模块
+emergency level	紧急等级
+evaluation value of probability	概率评估值
+evaluation value of probability determining module	概率评估值确定模块
+examining module	检测模块
+experience value of a network condition	网络状况经验值
+judging module	判断模块
+periodicity rule	周期性规律
+round trip time	往返时间
+trip indicator	行程指示器
+trip indicator	行程指标
+storing module	保存模块
+weighted value	加权值
+stack	叠层
+range of business volume	业务量范围
+ratio determination unit	比值确定单元
+ratio range determination unit	比例范围确定单元
+alert the business system	对所述业务系统进行报警
+alert unit	报警单元
+fitting unit	拟合单元
+displaying to a predetermined target reminding information	向预设目标展示提醒信息
+monitor unit	监控单元
+push and display unit	推送展示单元
+variance	方差
+variance determination unit	方差确定单元
+medical imaging system	医学成像系统
+scanning device	扫描设备
+scanning device 110	扫描设备110
+scanning table	检测床
+scanning data	原始数据
+scanning data	扫描数据
+host computer	主控计算机
+scan instruction	扫描指令
+scan protocol	扫描协议
+brightness value	亮度值
+fill light	补光
+fill light input value	补光输入值
+fill light result	补光结果
+Bilinear interpolation	双线性插值
+accumulate	累加
+along each brightness direction	在每个亮度方向上
+divide into	划分
+embodiment	实施例
+highlight/be highlighted	突出
+highlighted region	高亮区域
+highlighted region extraction module	高亮区域提取模块
+highlighted region determination unit	高亮区域确定单元
+（brightness） enhancement factor	（亮度）增强倍数
+median	中值
+rectangle region	矩形区域
+scene change identifier	场景变化标志
+sort	排序
+sum of the product of values corresponding to	…对应的数值的乘积和
+threads	线程
+valid region	有效区域
+vertex	顶点
+vertex coordinate	顶点坐标
+when identification information of the scene change indicates that the scene does not change	当所述场景变化的标识信息标识场景未变化时
+queuing zone	排队区
+queuing zone	排队区域
+zone attribute	区域属性
+interaction unit	交互单元
+availability attribute	可用性属性
+greyscale value	灰度值
+modulating radiation dose	调节辐射剂量
+dose of modulation	调制剂量
+dose of modulation (DOM) profile	剂量调制（DOM）曲线
+dose of modulation (DOM) profile generation model	剂量调制（DOM）曲线生成模型
+dose distribution	剂量分布
+dose modulation	剂量调制
+topogram image	俯视图图像
+topogram image	定位像
+aggregation rate	集结波速率
+aggregation rate	聚合率
+projection point	投影点
+shuttle services	班车服务
+discrete electrical signals	离散电信号
+anatomical region	解剖区域
+automated contouring techniques	自动轮廓绘制技术
+illustrative	示例性的
+Further	此外
+under-sampled	欠采样
+Monday to Friday of last week	上周的星期一至星期五
+supersaturated status	过饱和状态
+Tube current modulation	管电流调制
+DOM profile	DOM曲线
+DOM profile generation model	DOM曲线生成模型
+DOM profile generation unit	DOM曲线生成单元
+color value	颜色值
+color threshold	颜色阈值
+color space	颜色空间
+color difference value	色差值
+color conversion unit	颜色转换单元
+color recovery process	颜色恢复处理
+red light	红灯状态
+red packet	红包
+red channel	红色通道
+Confidence value	置信度值
+Edge pixel	边缘像素
+Laplace algorithm	拉普拉斯算法
+Laplace operator	拉普拉斯算子
+Laplace transform	拉普拉斯变换
+Robustness	鲁棒性
+bumper region	保险杆区域
+channel	通道
+convolution processing	卷积处理
+convolution matrix	卷积矩阵
+convolution kernel	卷积核
+kernel function	核函数
+cover region	车盖区域
+downsampling	下采样
+downsampling matrix	下采样矩阵
+empiric value	经验值
+full connection	全连接
+full capacity	满载容量
+intercept	截距
+intercept unit	拦截单元
+segmentation unit	分割单元
+main magnetic field generator	主磁场发生器
+main diagonal	主对角线
+modified matrix	修正矩阵
+overfitting	过度拟合
+partial derivative	偏导数
+row vector	行向量
+ROI	感兴趣区域
+ROI acquisition module	感兴趣区域获取模块
+white Gaussian noise	高斯白噪声
+white balance	白平衡
+abnormal traffic light	异常信号灯
+abnormity determination module	异常确定模块
+binarization	二值化
+binarization module	二值化模块
+dilation	膨胀
+environmental factor	环境因素
+erosion	腐蚀
+erosion module	腐蚀模块
+exposure	曝光量
+fuse	融合
+fusion mask	融合掩码
+green light	绿灯状态
+green channel	绿色通道
+halo extraction module	光晕提取模块
+halo determination unit	光晕确定单元
+halo region	光晕区域
+halo optimization module	光晕区域优化模块
+halo reducement	减光晕
+hue	色调
+normality determination unit	非异常确定单元
+overlapped region	重叠区域
+overlapping determination unit	重叠判断单元
+saturability	饱和度
+shape recovery image	形状恢复图像
+yellow light	黄灯状态
+cascade shape regression method	级联形状回归方法
+dividing module	划分模块
+executing module	执行模块
+gray level	灰度
+gray level threshold	灰度阈值
+gray level variation	灰度变化量
+gray-scale feature	灰度特征
+normalized pixel difference	归一化像素差
+regularization coefficient	正则项系数
+standard random forest	标准随机森林
+uniform index feature	统一索引特征
+specialized model	专用模型
+stereoscopic vision technology	立体视觉技术
+localizer scan	定位器扫描
+autoregressive integrated moving average model	自回归积分滑动平均模型
+confidence level	置信度
+drifting point	漂移点
+enclosed area	封闭区域
+external request	外部请求
+gradient transformation	梯度变换
+gradient boosting decision tree regression model	梯度增强决策树回归模型
+gradient transform	梯度变换
+inflection point	拐点
+inputs of the second clustering procedure	第二聚类过程的输入
+negatively correlated	负相关
+occurrence probability	发生概率
+pick up	搭载
+pick-up location	上车位置
+up-sample	升采样
+up-sampling	升采样
+up-sampled	升采样
+positively correlated	正相关
+update resource bundle	更新资源包
+resource installation package	资源安装包
+prior time interval	先前时间间隔
+prior vehicle age	先前车龄
+prior vehicle mileage	先前车辆里程
+proxy plugin	代理插件
+ranking result	排序结果
+respective match	分别匹配
+triggering code	触发代码
+voice decoder	语音解码器
+end point	终点
+camera	相机
+gantry	机架
+radioactive scanning source	放射性扫描源
+radioactive scanning device	放射性扫描设备
+radioactive rays	放射线
+graphic processing unit	图形处理单元
+central processing unit	中央处理单元
+translation element	平移元件
+operating control element	操作控制元件
+Time-of-Flight (ToF) technology	行时间( ToF)技术
+270	磁盘270
+lateral topogram image	侧向定位像
+attenuation data	衰减数据
+attenuation coefficient	衰减系数
+attenuation characteristics	衰减特性
+ose of modulation	调制剂量
+recommendation module	推送模块
+recommendation rule	推送规则
+radiologist	放射科医师
+affinity	亲和度
+movement data	运动数据
+volatile read-and-write memory	易失性读写存储器
+guiding image	指引图像
+indicator	指标
+pedestrian route	步行路线
+microprocessor	微处理器
+severe traffic jams	严重交通拥堵
+click count	点击数
+ride-sharing service	拼车服务
+laptop computer	掌上电脑
+authority	权限
+ignite	启动
+composite image	合成图像
+transformed layer	转换后的层
+denoised initial image	去噪后的初始图像
+watershed algorithm	分水岭算法
+log-domain	对数域
+wavelet transform	小波变换
+reconstructing	重建
+bilinear interpolation	双线性内插
+cubic interpolation	三次内插
+optimized fee	优化费用
+optimized adjusting rate of fee	优化费用调整率
+gross merchandise volume	商品总量
+limited number of preset values	250
+naming module	命名模块
+classifiers	分类器
+suspension box	悬浮框
+hypothetical time	假设时间
+hypothetical route	假设路线
+common character	共同特征
+matching index value	匹配的索引值
+supervised signal	监督信号
+mapped gray level range	映射后的灰度区间
+photon detector	光子检测器
+photon rays	光子射线
+X-ray detecting unit	X射线检测单元
+X-ray generating unit	X射线产生单元
+graphical user interface	图形用户界面
+cumulative dose	累积剂量
+interleaving	交叉
+overlaps	重叠
+constraints	约束条件
+optimizing	优化
+transport service	运输服务
+transport service provider	运输服务提供者
+transport tasks	运输任务
+transport capacity	运输容量
+functional modules	功能模块
+inimum value BP	最小值反投影
+back projection	反投影
+seed image	种子图像
+therapeutic radiation delivery apparatus	治疗放射传输装置
+eligible target POIs	合格目标POIs
+prescribed dose	处方剂量
+two or more	两个或以上
+forth	第四
+pickup location	上车位置
+origin location	原始位置
+walking distance	步行距离
+walking cost	步行费用
+convenience index	便利指数
+Artificial Neural Network	人工神经网络
+etc	等
+i.e.	即
+FIGs.	FIGUREs
+FIGS	FIGURES
+disclosure	本申请
+first threshold	第一阈值
+information	信息
+The method of claim	根据权利要求所述的方法
+and/or	和/或
+storage medium	存储介质
+time point	时间点
+acquisition module	获取模块
+In some embodiments	在一些实施例中
+service request	服务请求
+service requester	服务请求者
+example service orders	示例服务订单
+loss function	损失函数
+processor	处理器
+characteristic data	特征数据
+distance	距离
+preliminary model	初始模型
+location parameters	位置参数
+transportation service	运输服务
+determination unit	确定单元
+user	用户
+target route	目标路线
+positive samples	正样本
+preprocessing module	预处理模块
+wherein	其中
+negative samples	负样本
+modifying	修改
+e.g.	例如
+communication interface	通信接口
