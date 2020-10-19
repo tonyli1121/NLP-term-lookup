@@ -16,7 +16,11 @@ Commissioned project to look up the existence of terms in a file
 
 ## example
 python main.py
+
 Enter the file name: en.txt
+
 Enter language: en
+
 Enter term lib file name: en_term.txt
+
 processor done
