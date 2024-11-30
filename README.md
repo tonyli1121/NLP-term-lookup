@@ -1,5 +1,5 @@
 # term_look_up
-Commissioned project to look up the existence of terms in a file
+NLP project to look up the existence of terms in a file
 
 ## How to run
 1. download all
